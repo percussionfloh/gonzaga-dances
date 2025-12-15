@@ -1,6 +1,7 @@
 # gonzaga-dances
 Tangos/Polcas/Walzes by brazilian composer Chiquinha Gonzaga digitalized as a submodule for https://github.com/WolfgangDrescher/dances-project  
-  
+
+Biography of Chiquinha Gonzaga:    
 https://chiquinhagonzaga.com/wp/notable-twentieth-century-latin-american-women-english/  
   
 import sheet music from:  
