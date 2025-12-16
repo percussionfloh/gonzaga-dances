@@ -39,6 +39,6 @@ Tango brasileiro - Tango brasileiro ✗
 Tango característico - Tango característico ✗  
 Tango carlino desempregado Tango ✗  
 Tango ha alguma novidade - Tango ✗  
-Tim Tim - Tango  
-Tupa - Tango brasileiro  
-Yo te adoro - Tango  
+Tim Tim - Tango ✗  
+Tupa - Tango brasileiro ✗  
+Yo te adoro - Tango ✗  
