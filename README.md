@@ -12,33 +12,33 @@
 -https://imslp.org/wiki/Category:Gonzaga,_Chiquinha  
 
 ## Tangos
-Agua do vintemo - Tango brasileiro  
-Alegre se viuva - Tango  
-Anga - Tango  
-Bijou - Tango, Batuque  
-Bionne - Tango  
-Carijo - Tango-Choro  
-Chi (Xi) - Tango  
-Choro - Tango-Choro  
-Day break, AINDA NÃO MORREU - Tango  
-Diabinho - Tango carnavalesco  
-Evoe - Tango carnavalesco, Batuque, https://pt.wikipedia.org/wiki/Z%C3%A9_Pereira  
-Faceiro - Tango  
-Gaucho - Tango brasileiro, Batuque  
-Julia - Tango  
-Linda Morena - Choro-Tango  
-O jagunço - Tango característico brasileiro  
-Saci pererê - Tango brasileiro  
-São Paulo  - Tango brasileiro  
-Sedutor - Tango  
-Só na flauta - Tango-choro  
-So no choro - Tango característico  
-Suspiro - Tango  
-Tambyquererê - Tango  
-Tango brasileiro - Tango brasileiro  
-Tango característico - Tango característico  
-Tango carlino desempregado Tango  
-Tango ha alguma novidade - Tango  
-Tim Tim - Tango  
-Tupa - Tango brasileiro  
-Yo te adoro - Tango  
+Agua do vintemo - Tango brasileiro ✗  
+Alegre se viuva - Tango ✗  
+Anga - Tango ✗  
+Bijou - Tango, Batuque ✗  
+Bionne - Tango ✗  
+Carijo - Tango-Choro ✗  
+Chi (Xi) - Tango ✗  
+Choro - Tango-Choro ✗  
+Day break, AINDA NÃO MORREU - Tango ✗  
+Diabinho - Tango carnavalesco ✗  
+Evoe - Tango carnavalesco, Batuque, https://pt.wikipedia.org/wiki/Z%C3%A9_Pereira ✗  
+Faceiro - Tango ✗  
+Gaucho - Tango brasileiro, Batuque ✗  
+Julia - Tango ✗  
+Linda Morena - Choro-Tango ✗  
+O jagunço - Tango característico brasileiro ✗  
+Saci pererê - Tango brasileiro ✗  
+São Paulo  - Tango brasileiro ✗  
+Sedutor - Tango ✗  
+Só na flauta - Tango-choro ✗  
+So no choro - Tango característico ✗  
+Suspiro - Tango ✗  
+Tambyquererê - Tango ✗  
+Tango brasileiro - Tango brasileiro ✗  
+Tango característico - Tango característico ✗  
+Tango carlino desempregado Tango ✗  
+Tango ha alguma novidade - Tango ✗  
+Tim Tim - Tango ✗  
+Tupa - Tango brasileiro ✗  
+Yo te adoro - Tango ✗  
