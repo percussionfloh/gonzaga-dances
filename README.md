@@ -1,6 +1,6 @@
-### gonzaga-dances
+# gonzaga-dances
   
-#Tangos/Polcas/Walzes in kern files by brazilian composer Chiquinha Gonzaga as submodule for dances-project
+### Tangos/Polcas/Walzes in kern files by brazilian composer Chiquinha Gonzaga as submodule for dances-project
 
 Biography of Chiquinha Gonzaga:    
 https://chiquinhagonzaga.com/wp/notable-twentieth-century-latin-american-women-english/  
@@ -10,7 +10,7 @@ import sheet music from:
 -https://musicabrasilis.org.br/pt-br/compositores/chiquinha-gonzaga/  
 -https://imslp.org/wiki/Category:Gonzaga,_Chiquinha  
 
-##Tangos
+## Tangos
 Agua do vintemo - Tango brasileiro
 Alegre se viuva - Tango
 Anga - Tango
