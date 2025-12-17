@@ -11,4 +11,8 @@ Agua do Vintém: largo do Vintém: Volksaufstand
 Fonte da Chácara do Vintém: Wasserquelle für Rio de Janeiro
 -> hat nichts mit Aufstand zu tun
 
--Editor ist Muwi in Rio
+https://chiquinhagonzaga.com/wp/wp-content/uploads/2018/03/2018_A_Pedagogical_Approach_to_the_Waltzes_and_Tangos.compressed.pdf
+
+
+
+
