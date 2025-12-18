@@ -1,7 +1,7 @@
 # gonzaga-dances
   
 
-### Tangos/Polcas/Walzes in kern files by brazilian composer Francisca "Chiquinha" Gonzaga as submodule for [dances-project](https://github.com/WolfgangDrescher/dances-project)
+### Tangos/Polkas/Walzes in kern files by brazilian composer Francisca "Chiquinha" Gonzaga as submodule for [dances-project](https://github.com/WolfgangDrescher/dances-project)
 
 **Biography of Francisca Gonzaga:**    
 [chiquinhagonzaga.com](https://chiquinhagonzaga.com/wp/notable-twentieth-century-latin-american-women-english/)  
