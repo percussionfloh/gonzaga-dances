@@ -13,7 +13,7 @@
 
 ## Tangos
 
-|**Name**|**Genre**|**digitalisiert**|
+|**Name**|**Genre**|**digitalized**|
 |---|---|---|
 |Água do vintém|Tango brasileiro|✓|
 |Ainda não morreu|Tango|✗|
