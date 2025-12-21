@@ -61,4 +61,19 @@ Chi:
 * Triller
 * Intro
 
+Choro:
+* Intro mit IV, V7, I in Eb
 
+* Harmonisch "ausufernder" als üblich
+1. Thema periodisch und p <-> f, Appg auf stark/halb-starke beats, pentatonisch, m 21 verm
+2. Thema in Ab, Akkordtöne, wenig pentatonisch (m 29)
+"Chromatik" bei Dominanten (m 21)
+kein Trio
+
+Day break/Ainda nao morreu:
+Form: Intro-Thema-Intro-Thema-Trio-Intro-Thema
+1. Thema: viel pentatonisches (hier zb nicht TonikaAdd6 (m 48)), Trio nicht
+keine Appg in 1. Thema, Trio auch nicht
+keine Chromatik
+
+O diabinho (Tango carnavalesco):
