@@ -55,9 +55,10 @@ keine Pentatonik
 * kein Trio
 
 Chi:
-1. Thema Pentatonik, periodisch
-2. Thema Chromatik & Akkordtöne
-
+1. Thema Pentatonik, synkopen mit ghostnotes, periodisch mit halb-chromatischem Lamentobass in zweiter Hälfte
+2. Thema Chromatik (bei Dominanten) & Akkordtöne
 * A-B-A
 * Triller
 * Intro
+
+
