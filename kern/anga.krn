@@ -1,0 +1,463 @@
+!!!COM: Gonzaga, Francisca
+!!!CDT: 1847/10/17-1935/02/28
+!!!OTL: Anga
+**kern	**kern
+*part2	*part1
+*staff2	*staff1
+*I"Piano	*I"Piano
+*clefF4	*clefG2
+*k[]	*k[]
+*M2/4	*M2/4
+=1	=1
+*C:	*
+4r	8r
+.	8g
+=||	=||
+16CKL	4.e 4.cc
+8E 8G 8c	.
+16EJk 16G 16c	.
+8GGL	.
+8EJ 8G 8c	8dd
+=	=
+16DKL	4f 4b
+8F 8G 8B	.
+16FJk 16G 16B	.
+8GGL	16r
+.	8bL
+8FJ 8G 8B	.
+.	16ccJk
+=	=
+16DKL	16ddKL
+8F 8G 8B	8ee
+16FJk 16G 16B	16ffJk
+8GGL	(8ggL
+8FJ 8G 8B	8aaJ)
+=	=
+16CKL	4ee 4gg
+8E 8G 8c	.
+16EJk 16G 16c	.
+8GGL	16r
+.	8eeeL
+8EJ 8G 8c	.
+.	16bbJk
+=	=
+16CKL	16dddKL
+8E 8G 8c	8ccc
+16EJk 16G 16c	16eeJk
+8CL	8aaL
+8EJ 8G 8c	8ccJ
+!!linebreak:original
+=	=
+16DKL	4f 4b
+8F 8G 8B	.
+16FJk 16G 16B	.
+8FL	16r
+.	8aaL
+8GJ 8B	.
+.	16eeJk
+=	=
+16GGKL	16ggKL
+8F 8G 8B	8ff
+16FJk 16G 16B	16bJk
+8GGL	8eeL
+8FJ 8G 8B	8ddJ
+=	=
+16CKL	8eL 8cc
+8E 8G 8c	.
+.	8aJ
+16EJk 16G 16c	.
+8GGL	8gL
+8EJ 8G 8c	8gJ
+=	=
+16CKL	4.e 4.cc
+8E 8G 8c	.
+16EJk 16G 16c	.
+8GGL	.
+8EJ 8G 8c	8dd
+=	=
+16DKL	4g 4b
+8F 8G 8B	.
+16FJk 16G 16B	.
+8GGL	16r
+.	8bL
+8FJ 8G 8B	.
+.	16ccJk
+=	=
+16DKL	16ddKL
+8F 8G 8B	8ee
+16FJk 16G 16B	16ffJk
+8GGL	(8ggL
+8FJ 8G 8B	8aaJ)
+=	=
+16CKL	4ee 4gg
+8E 8G 8c	.
+16EJk 16G 16c	.
+8GGL	16r
+.	8eeeL
+8EJ 8G 8c	.
+.	16bbJk
+!!linebreak:original
+=	=
+16F#XKL	16dddKL
+8A 8c 8f#X	8ccc
+16AJk 16c 16f#	16gg#XJk
+8F#L	8bbL
+8AJ 8c 8f#	8aaJ
+=	=
+16GKL	4ee 4gg
+8c 8e	.
+16cJk 16e	.
+8EL	16r
+.	8cccL
+8GJ 8c 8e	.
+.	16eeJk
+=	=
+16DKL	16aaKL
+8G 8B 8f	8gg
+16GJk 16B 16f	16gJk
+8GGL	8eeL
+8FJ 8G 8B	8fJ 8dd
+=	=
+8CL 8G 8c	8eL 8cc
+8GGJ 8G	8gJ 8b 8dd 8gg
+4CC 4C	4cc 4ee 4gg 4ccc
+=||	=||
+*G:	*
+*k[f#]	*k[f#]
+!	!LO:TX:a:t=Fine
+16F#KL	16ccKL 16dd
+8c 8f#	8ee
+16cJk 16f#	16ddJk
+8F#L	8ccL 8dd
+8cJ 8f#	8aaJ
+=	=
+16GKL	4b 4gg
+8B 8d	.
+16BJk 16d	.
+8DL	16r
+.	(8ff#L
+8GJ 8B 8d	.
+.	16ggJk)
+=	=
+16F#KL	4ddd
+8c 8f#	.
+16cJk 16f#	.
+8F#L	16r
+.	8gg#XL
+8AJ 8c 8f#	.
+.	16aaJk
+!!linebreak:original
+=	=
+16GKL	(16eeeLL
+8B 8d	16ddd
+.	16bb
+16BJk 16d	16ggJJ)
+8DL	(16eeLL
+.	16dd
+8GJ 8B 8d	16b
+.	16gJJ)
+=	=
+16F#KL	16ccKL 16dd
+8c 8f#	8ee
+16cJk 16f#	16ddJk
+8F#L	8ccL 8dd
+8cJ 8f#	8aaJ
+=	=
+16GKL	4b 4gg
+8B 8d	.
+16BJk 16d	.
+8DL	16r
+.	8ggL
+8GJ 8B 8d	.
+.	16bbJk
+=	=
+16C#XKL	16aaKL
+8G 8A 8c#X	8ff#
+16GJk 16A 16c#	16aaJk
+8C#L	8ggL
+8GJ 8A 8c#	8eeJ
+=	=
+16DKL	4f# 4dd
+8F# 8A 8d	.
+16F#Jk 16A 16d	.
+4D	4r
+=	=
+16F#KL	16ccKL 16dd
+8c 8f#	8ee
+16cJk 16f#	16ddJk
+8DL	8ccL 8dd
+8cJ 8f#	8aaJ
+!!linebreak:original
+=	=
+16GKL	4b 4gg
+8B 8d	.
+16BJk 16d	.
+8DL	16r
+.	(8ff#L
+8GJ 8B 8d	.
+.	16ggJk)
+=	=
+16F#KL	4ddd
+8c 8f#	.
+16cJk 16f#	.
+8DL	16r
+.	8gg#XL
+8cJ 8f#	.
+.	16aaJk
+=	=
+16GKL	(16eeeLL
+8B 8d	16ddd
+.	16bb
+16BJk 16d	16ggJJ)
+8DL	(16eeLL
+.	16dd
+8GJ 8B 8d	16b
+.	16gJJ)
+=	=
+16FnKL	16ggKL
+8G 8B 8d	8aa
+16GJk 16B 16d	16ggJk
+8FL	8ggL
+8GJ 8B 8d	8dddJ
+=	=
+16EKL	4ee 4ccc
+8G 8c 8e	.
+16GJk 16c 16e	.
+8EL	16r
+.	8cccL
+8GJ 8c 8e	.
+.	16eeeJk
+=	=
+16DKL	16dddKL
+8G 8B 8d	8bb
+16GJk 16B 16d	16dddJk
+8DL	8cccL
+8F#J 8c 8d	8ccJ 8ff#
+!!linebreak:original
+=	=
+8GL 8B 8d	4b 4gg
+8GGJ	.
+4r	8r
+.	8g
+=||	=||
+*C:	*
+*k[]	*k[]
+16CKL	4.e 4.cc
+8E 8G 8c	.
+16EJk 16G 16c	.
+8GGL	.
+8EJ 8G 8c	8dd
+=	=
+16DKL	4f 4b
+8F 8G 8B	.
+16FJk 16G 16B	.
+8GGL	16r
+.	8bL
+8FJ 8G 8B	.
+.	16ccJk
+=	=
+16DKL	16ddKL
+8F 8G 8B	8ee
+16FJk 16G 16B	16ffJk
+8GGL	(8ggL
+8FJ 8G 8B	8aaJ)
+=	=
+16CKL	4ee 4gg
+8E 8G 8c	.
+16EJk 16G 16c	.
+8GGL	16r
+.	8eeeL
+8EJ 8G 8c	.
+.	16bbJk
+=	=
+16CKL	16dddKL
+8E 8G 8c	8ccc
+16EJk 16G 16c	16eeJk
+8CL	8aaL
+8EJ 8G 8c	8ccJ
+=	=
+16DKL	4f 4b
+8F 8G 8B	.
+16FJk 16G 16B	.
+8FL	16r
+.	8aaL
+8GJ 8B	.
+.	16eeJk
+!!pagebreak:original
+=	=
+16GGKL	16ggKL
+8F 8G 8B	8ff
+16FJk 16G 16B	16bJk
+8GGL	8eeL
+8FJ 8G 8B	8ddJ
+=	=
+16CKL	8eL 8cc
+8E 8G 8c	.
+.	8aJ
+16EJk 16G 16c	.
+8GGL	8gL
+8EJ 8G 8c	8gJ
+=	=
+16CKL	4.e 4.cc
+8E 8G 8c	.
+16EJk 16G 16c	.
+8GGL	.
+8EJ 8G 8c	8dd
+=	=
+16DKL	4g 4b
+8F 8G 8B	.
+16FJk 16G 16B	.
+8GGL	16r
+.	8bL
+8FJ 8G 8B	.
+.	16ccJk
+=	=
+16DKL	16ddKL
+8F 8G 8B	8ee
+16FJk 16G 16B	16ffJk
+8GGL	(8ggL
+8FJ 8G 8B	8aaJ)
+=	=
+16CKL	4ee 4gg
+8E 8G 8c	.
+16EJk 16G 16c	.
+8GGL	16r
+.	8eeeL
+8EJ 8G 8c	.
+.	16bbJk
+=	=
+16F#XKL	16dddKL
+8A 8c 8f#X	8ccc
+16AJk 16c 16f#	16gg#XJk
+8F#L	8bbL
+8AJ 8c 8f#	8aaJ
+!!linebreak:original
+=	=
+16GKL	4ee 4gg
+8c 8e	.
+16cJk 16e	.
+8EL	16r
+.	8cccL
+8GJ 8c 8e	.
+.	16eeJk
+=	=
+16DKL	16aaKL
+8G 8B 8f	8gg
+16GJk 16B 16f	16gJk
+8GGL	8eeL
+8GJ 8B	8fJ 8dd
+=	=
+8CL 8G 8c	8eL 8cc
+8GGJ 8G	8gJ 8b 8dd 8gg
+4CC 4C	4cc 4ee 4gg 4ccc
+=||	=||
+*F:	*
+*k[b-]	*k[b-]
+!LO:TX:a:t=Duogo	!LO:TX:a:t=Trio
+4FF 4F	16r
+.	8fL 8a 8cc
+.	16fJk 16a 16cc
+4CC 4C	8r
+.	8f 8a 8cc
+=	=
+4GG 4G	16r
+.	8eL 8b- 8cc
+.	16eJk 16b- 16cc
+4CC 4C	8r
+.	8e 8b- 8cc
+=	=
+16CKL	16fKL 16a 16ff
+8F 8A 8c	8f 8a 8ee
+16FJk 16A 16c	16fJk 16a 16dd
+8CL	8fL 8a 8cc
+8FJ 8A 8c	8fJ
+=	=
+16GKL	8.eL
+8B- 8c	.
+16B-Jk 16c	16b-Jk 16cc
+8CL	8b- 8cc
+8GJ 8B- 8c	8r
+!!linebreak:original
+=	=
+16GKL	16aKL
+8A 8c#X	8bn
+16AJk 16c#	16cc#XJk
+8GL	8ffL
+8AJ 8c#	8eeJ
+=	=
+16DKL	8.fL 8.a
+8F 8A 8d	.
+16FJk 16A 16d	16ddJk
+8DL	8dd
+8FJ 8A 8d	8r
+=	=
+*F:	*
+16FKL	8.ffL
+8G 8Bn	.
+16GJk 16B	16bbnJk
+8FL	8eeeL
+8GJ 8B	8dddJ
+=	=
+4C 4G 4B-	8.eeL 8.ccc
+.	16bbnJk
+4r	(16bb-XLL
+.	16gg
+.	16ee
+.	16ccJJ)
+=	=
+4FF 4F	16r
+.	8fL 8a 8cc
+.	16fJk 16a 16cc
+4CC 4C	8r
+.	8f 8a 8cc
+=	=
+4GG 4G	16r
+.	8eL 8b- 8cc
+.	16eJk 16b- 16cc
+4CC 4C	8r
+.	8e 8b- 8cc
+=	=
+16CKL	16fKL 16a 16ff
+8F 8A 8c	8f 8a 8ee
+16FJk 16A 16c	16fJk 16a 16dd
+8CL	8fL 8a 8cc
+8FJ 8A 8c	8fJ
+!!linebreak:original
+=	=
+16GKL	8.eL
+8B- 8c	.
+16B-Jk 16c	16b-Jk 16cc
+8CL	8b- 8cc
+8GJ 8B- 8c	8r
+=	=
+16GKL	16aKL
+8A 8c#X	8bn
+16AJk 16c#	16cc#XJk
+8GL	8ffL
+8AJ 8c#	8eeJ
+=	=
+16DKL	8.fL 8.a 8.dd
+8F 8A 8d	.
+16FJk 16A 16d	16aJk
+8BB-L	8dL 8g 8cc
+8GJ	8dJ 8g 8b-
+=	=
+8.CL	16cKL 16f 16a
+.	8cc
+16CJk	16cJk 16f 16a
+8DL	8BnL 8f 8bn
+8EJ	8B-XJ 8e 8g
+=	=
+8.FL	4A 4c 4f
+16CJk	.
+8FF	8r
+8r	8g
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Tango
+!!!EED: Florian Moldaschl
+!!!END: 2025/12/23
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/12/23
+!!!title: @{OPR}, @{SCT} №@{ONM}
