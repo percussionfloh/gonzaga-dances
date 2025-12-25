@@ -17,10 +17,10 @@
 |---|---|---|
 |Água do vintém|Tango brasileiro|✓|
 |Ainda não morreu|Tango|✗|
-|Alegre se viuva|Tango|✗|
-|Anga|Tango|✗|
+|Alegre se viuva|Tango|✓|
+|Anga|Tango|✓|
 |Bijou|Tango, Batuque|✗|
-|Bionne|Tango|✗|
+|Bionne|Tango|✓|
 |Carijo|Tango-Choro|✗|
 |Chi (Xi)|Tango|✗|
 |Choro|Tango-Choro|✗|
