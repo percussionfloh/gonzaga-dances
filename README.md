@@ -21,9 +21,9 @@
 |Anga|Tango|✓|
 |Bijou|Tango, Batuque|✗|
 |Bionne|Tango|✓|
-|Carijo|Tango-Choro|✗|
-|Chi (Xi)|Tango|✗|
-|Choro|Tango-Choro|✗|
+|Carijo|Tango-Choro|✓|
+|Chi (Xi)|Tango|✓|
+|Choro|Tango-Choro|✓|
 |Diabinho|Tango carnavalesco|✗|
 |Evoe|Tango carnavalesco, Batuque|✗| https://pt.wikipedia.org/wiki/Z%C3%A9_Pereira
 |Faceiro|Tango|✗|
