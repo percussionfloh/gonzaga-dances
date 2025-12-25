@@ -1,0 +1,413 @@
+!!!COM: Gonzaga, Francisca
+!!!CDT: 1847/10/17-1935/02/28
+!!!OTL: Xi
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M2/4	*M2/4	*
+=1	=1	=1
+*C:	*C:	*
+!	!LO:TX:a:B:t=Entrada	!
+2r	8ggL	.
+.	8gJ	.
+.	4gg^	.
+*clefG2	*	*
+=	=	=
+8cc	8ee 8gg	.
+4.dd	4.ff 4.gg	.
+=	=	=
+!	!LO:TX:b:i:t=arpejo	!
+2r	4r	.
+.	16r	.
+.	(16GLL	.
+.	16c	.
+.	16eJJ	.
+=	=	=
+2r	8g)	.
+.	8r	.
+.	16r	.
+.	(16GLL	.
+.	16B	.
+.	16fJJ	.
+=	=	=
+2r	8g;)	.
+.	8r	.
+.	16r	.
+.	(16fLL	.
+.	16g	.
+.	16bJJ	.
+=	=	=
+2r	8dd^)	.
+.	8r	.
+.	16r	.
+.	(16gLL	.
+.	16b	.
+.	16ddJJ	.
+*clefF4	*	*
+=	=	=
+4r	2gg)	.
+4G	.	.
+!!linebreak:original
+=	=	=
+8GG	2r	.
+8r	.	.
+4r	.	.
+=!|:	=!|:	=!|:
+!	!LO:TX:a:B:t=Tango	!
+!	!LO:TX:b:i:t=gracioso	!
+8.CL	2ggT	p
+16cJk 16e 16g	.	.
+8cL 8e 8g	.	.
+8cJ 8e 8g	.	.
+=	=	=
+8.BL 8.f 8.g	16r	.
+.	(16ffLL	.
+.	16gg	.
+16BJk 16f 16g	16bbJJ	.
+8BL 8f 8g	16fffLL	.
+.	16eee	.
+8BJ 8f 8g	16ff	.
+.	16eeeJJ)	.
+=	=	=
+8.CL	(16dddLL	.
+.	16ccc	.
+.	16ee	.
+16cJk 16e 16g	16aaJJ	.
+8cL 8e 8g	4gg^)	.
+8cJ 8e 8g	.	.
+=	=	=
+8.GL	4r	.
+16cJk 16e 16g	.	.
+8cL 8e 8g	4ccT	.
+8cJ 8e 8g	.	.
+.	(16qqb/LL	.
+.	16qqcc/JJ)	.
+=	=	=
+8.BL 8.f 8.g	8.dd^:L 8.bb:	.
+16BJk 16f 16g	16ccJk 16aa	.
+8BL 8f 8g	4b^ 4gg	.
+8BJ 8f 8g	.	.
+=	=	=
+8.FL	4r	.
+16GJk 16B 16f	.	.
+8GL 8B 8f	4gT	.
+8GJ 8B 8f	.	.
+.	16qqf#X/LL	.
+.	16qqg/JJ	.
+!!linebreak:original
+=	=	=
+!	!LO:TX:b:i:t=echo...	!
+8.CL	8.ee^:L 8.gg:	.
+16GJk 16c 16e	16ddJk 16ff	.
+8GL 8c 8e	4cc 4ee	.
+8GJ 8c 8e	.	.
+=	=	=
+8.EL	16r	.
+.	(16eLL	.
+.	16g	.
+16GJk 16c 16e	16ccJJ)	.
+8GL 8c 8e	(16eeLL	.
+.	16g	.
+8GJ 8c 8e	16cc	.
+.	16eeJJ)	.
+=	=	=
+8.CL	2ggT	.
+16cJk 16e 16g	.	.
+8cL 8e 8g	.	.
+8cJ 8e 8g	.	.
+=	=	=
+8.BL 8.f 8.g	16r	.
+.	(16ffLL	.
+.	16gg	.
+16BJk 16f 16g	16bbJJ)	.
+8BL 8f 8g	(16eeeLL	.
+.	16ddd	.
+8BJ 8f 8g	16ff	.
+.	16eeeJJ)	.
+=	=	=
+8.C^L	(16dddLL	.
+.	16ccc	.
+.	16ee	.
+16cJk 16e 16g	16aaJJ)	.
+8cL 8e 8g	4gg^	.
+8cJ 8e 8g	.	.
+=	=	=
+8.B-X^L	16r	.
+.	(16bb-XLL	.
+.	16ccc	.
+16cJk 16e 16g	16eeeJJ	.
+8cL 8e 8g	16aaaLL	.
+.	16ggg	.
+8cJ 8e 8g	16bb-	.
+.	16aaaJJ)	.
+!!linebreak:original
+=	=	=
+8A^L	(16gggLL	.
+.	16fff	.
+8cJ 8f	16aa	.
+.	16fffJJ)	.
+*	*8va	*
+8A-X^	8cccc	.
+8r	8r	.
+*	*X8va	*
+=	=	=
+8.GL	16r	.
+.	(16eeeLL	.
+.	16ggg	.
+16cJk 16e	16cccJJ	.
+8cL 8e	16eeeLL	.
+.	16gg	.
+8GGJ 8BB 8D 8G	16ff	.
+.	16dddJJ)	.
+=	=	=
+2C 2E 2G 2c	(16eeLL	.
+.	16ccc	.
+.	16cc	.
+.	16ggJJ)	.
+.	(16gLL	.
+.	16ee	.
+.	16e	.
+.	16ccJJ)	.
+=	=	=
+4CC 4C	4c	.
+4r	16r	.
+.	16cLL	.
+.	16e	.
+.	16aJJ	.
+=:|!	=:|!	=:|!
+4CC 4C	4c	.
+4r	8r	.
+.	8cc	.
+=||	=||	=||
+*F:	*F:	*
+*k[b-]	*k[b-]	*
+8.E^L	4cc#X^	f
+16B-Jk 16c 16e	.	.
+!	!LO:TX:b:i:t=grandioso	!
+8B-L 8c 8e	4ee^ 4bb-	.
+8B-J 8c 8e	.	.
+!!linebreak:original
+=	=	=
+8C^L	8eeL 8aa	.
+8B-J 8c 8e	8eeJ 8gg	.
+8E^L	8ddL 8ff	.
+8B-J 8c 8e	8b-J 8dd	.
+=	=	=
+8.F^L	4a 4cc	.
+16AJk 16c 16f	.	.
+8F^L	4g#X^ 4bn 4ff	.
+8G#XJ 8Bn 8d	.	.
+=	=	=
+8.FL	4a 4cc	.
+16AJk 16c 16f	.	.
+8AL 8c 8f	8.eeL	.
+8AJ 8c 8f	.	.
+.	16ddJk	.
+=	=	=
+.	(8qdd/	.
+8.EL	8.gL) 8.gg	.
+16B-Jk 16c 16e	16aJk 16aa	.
+8B-L 8c 8e	8b-L 8bb-	.
+8B-J 8c 8e	8bnJ 8bbn	.
+=	=	=
+8.CL	8ccL 8ccc	.
+.	8cc#XJ 8ccc#X	.
+16B-Jk 16c 16e	.	.
+8B-L 8c 8e	8ddL 8ddd	.
+8B-J 8c 8e	8eeJ 8eee	.
+=	=	=
+8F^L	8ffL 8fff	.
+8AJ 8c 8f	8eeJ 8eee	.
+8BB-^L	16ff^:KL 16fff:	.
+.	8bb-^: 8fff:	.
+8B-J 8d 8f	.	.
+.	16bb-^Jk 16ddd	.
+!!pagebreak:original
+=	=	=
+8.CL	8aa^:L 8ccc:	.
+.	8ff^:J 8aa:	.
+16AJk 16c 16f	.	.
+8AL 8c 8f	16ccKL 16ff	.
+.	8a 8cc	.
+8AJ 8c 8f	.	.
+.	16fJk 16a	.
+=	=	=
+8.CL	4e 4b-	.
+16B-Jk 16c 16e	.	.
+!	!LO:TX:b:i:t=grandioso	!
+8B-L 8c 8e	4cc#X^ 4ee 4bb-	.
+8B-J 8c 8e	.	.
+=	=	=
+8C^L	8eeL 8aa	.
+8B-J 8c 8e	8eeJ 8gg	.
+8E^L	8ddL 8ff	.
+8B-J 8c 8e	8b-J 8dd	.
+=	=	=
+8.F^L	4a 4cc	.
+16AJk 16c 16f	.	.
+8FL	4g#X^ 4bn 4ff	.
+8G#XJ 8Bn 8d	.	.
+=	=	=
+8.FL	4a 4cc	.
+16AJk 16c 16f	.	.
+8AL 8c 8f	4ff	.
+8AJ 8c 8f	.	.
+=	=	=
+8.CL	8.ccL 8.ccc	.
+16AJk 16c 16f	16aaJk	.
+8AL 8c 8f	8ffL	.
+8AJ 8c 8f	8ccJ	.
+=	=	=
+8C^L	4f 4bn 4dd	.
+8A-XJ 8Bn 8d	.	.
+8C^L	4e 4b-X 4cc	.
+8GJ 8B-X 8c	.	.
+!!linebreak:original
+=	=	=
+8.FL	(8aL 8cc 8ff	.
+.	24fL	.
+.	24a	.
+16AJk 16c 16f	.	.
+.	24ccJJ	.
+8AL 8c 8f	24ffLL	.
+.	24aa	.
+.	24ccc	.
+8AJ 8c 8f	24fff	.
+.	24aaa	.
+.	24ccccJJ	.
+=	=	=
+8.FFL	4ffff)	.
+16AJk 16c 16f	.	.
+8AL 8c 8f	4r	.
+8AJ 8c 8f	.	.
+=:|!	=:|!	=:|!
+*k[]	*k[]	*
+8.CL	2ggT	p
+!	!LO:TX:a:i:t=con graca	!
+16cJk 16e 16g	.	.
+8cL 8e 8g	.	.
+8cJ 8e 8g	.	.
+=	=	=
+8.BL 8.f 8.g	16r	.
+.	(16ffLL	.
+.	16gg	.
+16BJk 16f 16g	16bbJJ	.
+8BL 8f 8g	16eeeLL	.
+.	16ddd	.
+8BJ 8f 8g	16ff	.
+.	16eeeJJ)	.
+=	=	=
+8.CL	(16dddLL	.
+.	16ccc	.
+.	16ee	.
+16cJk 16e 16g	16aaJJ	.
+8cL 8e 8g	4gg)	.
+8cJ 8e 8g	.	.
+=	=	=
+8.GL	4r	.
+16cJk 16e 16g	.	.
+8cL 8e 8g	4ccT	.
+8cJ 8e 8g	.	.
+.	(16qqb/LL	.
+.	16qqcc/JJ)	.
+!!linebreak:original
+=	=	=
+8.BL 8.f 8.g	8.dd:L 8.bb:	.
+16BJk 16f 16g	16ccJk 16aa	.
+8BL 8f 8g	4b 4gg	.
+8BJ 8f 8g	.	.
+=	=	=
+8.F^L	4r	.
+16GJk 16B 16f	.	.
+8GL 8B 8f	4gT	.
+8GJ 8B 8f	.	.
+.	(16qqf#X/LL	.
+.	16qqg/JJ)	.
+=	=	=
+!	!LO:TX:b:i:t=echo...	!
+8.CL	8.ee^:L 8.gg:	.
+16GJk 16c 16e	16ddJk 16ff	.
+8GL 8c 8e	4cc 4ee	.
+8GJ 8c 8e	.	.
+=	=	=
+8.EL	16r	.
+.	(16eLL	.
+.	16g	.
+16GJk 16c 16e	16ccJJ	.
+8GL 8c 8e	16eeLL	.
+.	16g	.
+8GJ 8c 8e	16cc	.
+.	16eeJJ)	.
+=	=	=
+8.CL	2ggT	.
+16cJk 16e 16g	.	.
+8cL 8e 8g	.	.
+8cJ 8e 8g	.	.
+=	=	=
+8.BL 8.f 8.g	16r	.
+.	(16ffLL	.
+.	16gg	.
+16BJk 16f 16g	16bbJJ	.
+8BL 8f 8g	16eeeLL	.
+.	16ddd	.
+8BJ 8f 8g	16ff	.
+.	16eeeJJ)	.
+!!linebreak:original
+=	=	=
+8.CL	(16dddLL	.
+.	16ccc	.
+.	16ee	.
+16cJk 16e 16g	16aaJJ	.
+8cL 8e 8g	4gg^)	.
+8cJ 8e 8g	.	.
+=	=	=
+8.B-X^L	16r	f
+.	(16bb-XLL	.
+.	16ccc	.
+16cJk 16e 16g	16eeeJJ	.
+8cL 8e 8g	16aaaLL	.
+.	16ggg	.
+8cJ 8e 8g	16bb-	.
+.	16aaaJJ)	.
+=	=	=
+8.A^L	(16gggLL	.
+.	16fff	.
+.	16aa	.
+16cJk 16f	16fffJJ)	.
+*	*8va	*
+8A-X^	8cccc	.
+*	*X8va	*
+8r	8r	.
+=	=	=
+8.GL	16r	.
+.	(16eeeLL	.
+.	16ggg	.
+16cJk 16e	16cccJJ	.
+8cL 8e	16eeeLL	.
+.	16gg	.
+8GGJ 8BB 8D 8G	16ff	.
+.	16dddJJ)	.
+=	=	=
+2C 2E 2G 2c	(16eeLL	.
+.	16ccc	.
+.	16cc	.
+.	16ggJJ)	.
+.	(16gLL	.
+.	16ee	.
+.	16e	.
+.	16ccJJ)	.
+=	=	=
+4C	4c	.
+4CC	4c 4e 4g 4cc	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Tango
+!!!EED: Florian Moldaschl
+!!!END: 2025/12/23
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/12/23
+!!!title: @{OPR}, @{SCT} №@{ONM}
