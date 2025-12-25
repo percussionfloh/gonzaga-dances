@@ -16,15 +16,15 @@
 |**Name**|**Genre**|**digitalized**|
 |---|---|---|
 |Água do vintém|Tango brasileiro|✓|
-|Ainda não morreu|Tango|✗|
+|Ainda não morreu|Tango|✓|
 |Alegre se viuva|Tango|✓|
 |Anga|Tango|✓|
-|Bijou|Tango, Batuque|✗|
+|Bijou|Tango, Batuque|✓|
 |Bionne|Tango|✓|
 |Carijo|Tango-Choro|✓|
 |Chi (Xi)|Tango|✓|
 |Choro|Tango-Choro|✓|
-|Diabinho|Tango carnavalesco|✗|
+|Diabinho|Tango carnavalesco|✓|
 |Evoe|Tango carnavalesco, Batuque|✗| https://pt.wikipedia.org/wiki/Z%C3%A9_Pereira
 |Faceiro|Tango|✗|
 |Gaucho|Tango brasileiro, Batuque|✗|
