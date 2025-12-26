@@ -1,0 +1,348 @@
+!!!COM: Gonzaga, Francisca
+!!!CDT: 1847/10/17-1935/02/28
+!!!OTL: Gaúcho
+**kern	**kern	**dynam
+*part2	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*I"Piano	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*M2/4	*M2/4	*
+=1	=1	=1
+*d:	*d:	*
+!	!LO:TX:a:t=Batuque	!
+8.DDL	16r	.
+.	16ALL 16d 16f 16a	.
+.	16A 16d 16f 16a	.
+16AAJk	16AJJ 16d 16f 16a	.
+8.FL	8r	.
+.	8A 8d 8f 8a	.
+16AAJk	.	.
+=	=	=
+8.EEL	16r	.
+.	16ALL 16c#X 16g 16a	.
+.	16A 16c# 16g 16a	.
+16AAJk	16AJJ 16c# 16g 16a	.
+8.EL	8r	.
+.	8A 8c# 8g 8a	.
+16AAJk	.	.
+=	=	=
+8.DDL	16r	.
+.	16ALL 16d 16f 16a	.
+.	16A 16d 16f 16a	.
+16AAJk	16AJJ 16d 16f 16a	.
+8.FL	8r	.
+.	8A 8d 8f 8a	.
+16AAJk	.	.
+=	=	=
+8.EEL	16r	.
+.	16ALL 16c#X 16g 16a	.
+.	16A 16c# 16g 16a	.
+16AAJk	16AJJ 16c# 16g 16a	.
+8.EL	8r	.
+.	8A 8c# 8g 8a	.
+16AAJk	.	.
+=	=	=
+!	!LO:TX:a:t=Canto	!
+16DDKL	16r	.
+8F 8A 8d	(8ddL	.
+16FJk 16A 16d	16eeJk	.
+8FL 8A 8d	16ffLL	.
+.	16gg	.
+8FJ 8A 8d	16aa	.
+.	16bb-JJ)	.
+!!linebreak:original
+=	=	=
+16EKL	16aaLL	.
+8G 8A 8c#X	16gg#X	.
+.	16aa	.
+16GJk 16A 16c#	16ccc#XJJ	.
+8GL 8A 8c#	8eeeL	.
+8GJ 8A 8c#	8fffJ	.
+=	=	=
+16DKL	16eeeKL	.
+8F 8A 8d	8ddd	.
+16FJk 16A 16d	16aaJk	.
+8FL 8A 8d	16cccKL	.
+.	8bb-	.
+8FJ 8A 8d	.	.
+.	16eeJk	.
+=	=	=
+16EKL	8.aL 8.aa	.
+8G 8A 8c#X	.	.
+16GJk 16A 16c#	16eeJk	.
+8GL 8A 8c#	4a 4aa	.
+8GJ 8A 8c#	.	.
+=	=	=
+!	!LO:TX:a:t=Batuque	!
+8.DDL	16r	.
+.	16ALL 16d 16f 16a	.
+.	16A 16d 16f 16a	.
+16AAJk	16AJJ 16d 16f 16a	.
+8.FL	8r	.
+.	8A 8d 8f 8a	.
+16AAJk	.	.
+=	=	=
+8.EEL	16r	.
+.	16ALL 16c#X 16g 16a	.
+.	16A 16c# 16g 16a	.
+16AAJk	16AJJ 16c# 16g 16a	.
+8.EL	8r	.
+.	8A 8c# 8g 8a	.
+16AAJk	.	.
+!!linebreak:original
+=	=	=
+8.DDL	16r	.
+.	16ALL 16d 16f 16a	.
+.	16A 16d 16f 16a	.
+16AAJk	16AJJ 16d 16f 16a	.
+8.FL	8r	.
+.	8A 8d 8f 8a	.
+16AAJk	.	.
+=	=	=
+8.EEL	16r	.
+.	16ALL 16c#X 16g 16a	.
+.	16A 16c# 16g 16a	.
+16AAJk	16AJJ 16c# 16g 16a	.
+8.EL	8r	.
+.	8A 8c# 8g 8a	.
+16AAJk	.	.
+=	=	=
+16DDKL	16r	.
+!	!LO:TX:a:t=Canto	!
+8F#X 8c 8f#X	8ddL	.
+16F#Jk 16c 16f#	16ee-XJk	.
+8F#L 8c 8f#	(16ddLL	.
+.	16cc#X	.
+8F#J 8c 8f#	16dd	.
+.	16aaJJ)	.
+=	=	=
+16GGKL	16ggLL	.
+8G 8B- 8d	16ff#X	.
+.	16gg	.
+16GJk 16B- 16d	16bb-JJ	.
+8GL 8B- 8d	8dddL	.
+8GJ 8B- 8d	8ddd^J	.
+=	=	=
+16AAKL	16r	.
+8G 8A 8c#X	8aaL	.
+16GJk 16A 16c#	16bb-Jk	.
+8GL 8A 8c#	(16aaLL	.
+.	16gg#X	.
+8GJ 8A 8c#	16aa	.
+.	16ccc#XJJ)	.
+!!linebreak:original
+=	=	=
+16DKL	(16eeeLL	.
+8F 8A 8d	16ddd	.
+.	16aa	.
+16FJk 16A 16d	16ffJJ)	.
+8FL 8A 8d	8ddL	.
+8FJ 8A 8d	8dd^J	.
+=	=	=
+16DDKL	16r	.
+8F#X 8c 8f#X	8ddL	.
+16F#Jk 16c 16f#	16ee-XJk	.
+8F#L 8c 8f#	(16ddLL	.
+.	16cc#X	.
+8F#J 8c 8f#	16dd	.
+.	16aaJJ)	.
+=	=	=
+16GGKL	16ggLL	.
+8G 8B- 8d	16ff#X	.
+.	16gg	.
+16GJk 16B- 16d	16bb-JJ	.
+8GL 8B- 8d	8dddL	.
+8GJ 8B- 8d	8ddd^J	.
+=	=	=
+16AAKL	16r	.
+8G 8A 8c#X	8aaL	.
+16GJk 16A 16c#	16bb-Jk	.
+8GL 8A 8c#	(16aaLL	.
+.	16gg#X	.
+8GJ 8A 8c#	16aa	.
+.	16eeeJJ)	.
+=	=	=
+8.DDL	16ddd	.
+!	!LO:TX:a:t=Batuque	!
+.	16ALL 16d 16f 16a	.
+.	16A 16d 16f 16a	.
+16AAJk	16AJJ 16d 16f 16a	.
+8.FL	8r	.
+.	8A 8d 8f 8a	.
+16AAJk	.	.
+!!linebreak:original
+=	=	=
+8.EEL	16r	.
+.	16ALL 16c#X 16g 16a	.
+.	16A 16c# 16g 16a	.
+16AAJk	16AJJ 16c# 16g 16a	.
+8.EL	8r	.
+.	8A 8c# 8g 8a	.
+16AAJk	.	.
+=	=	=
+8.DDL	16r	.
+.	16ALL 16d 16f 16a	.
+.	16A 16d 16f 16a	.
+16AAJk	16AJJ 16d 16f 16a	.
+8.FL	8r	.
+.	8A 8d 8f 8a	.
+16AAJk	.	.
+=	=	=
+8.EEL	16r	.
+.	16ALL 16c#X 16g 16a	.
+.	16A 16c# 16g 16a	.
+16AAJk	16AJJ 16c# 16g 16a	.
+8.EL	8r	.
+.	8A 8c# 8g 8a	.
+16AAJk	.	.
+=	=	=
+4DD 4D	4d 4f 4a 4dd	.
+4D 4F 4A 4d	4dd 4ff 4aa 4ddd	.
+=!|:	=!|:	=!|:
+*F:	*F:	*
+!	!LO:TX:a:t=Coro e Dança	!
+!	!LO:TX:a:t=Fine	!
+8EL	4cc	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+8CL	4bb- 4ddd	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+=	=	=
+16EKL	16r	.
+8B- 8c 8e	8eeL 8ccc	.
+16B-Jk 16c 16e	16ee-XJk 16bbn	.
+8CL	8ddL 8bb-X	.
+8B-J 8c 8e	8b-J 8dd	.
+!!pagebreak:original
+=	=	=
+8FL	4a 4cc	.
+16AL 16c 16f	.	.
+16AJJ 16c 16f	.	.
+8CL	4aa 4ccc	.
+16AL 16c 16f	.	.
+16AJJ 16c 16f	.	.
+=	=	=
+16FKL	16r	.
+8A 8c 8f	8aaL	.
+16AJk 16c 16f	16ffJk	.
+8CL	8ccL	.
+8AJ 8c 8f	8aJ	.
+=	=	=
+8EL	4b-	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+8CL	4ee 4gg	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+=	=	=
+8EL	4cc	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+8CL	4ee 4gg	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+=	=	=
+8CL	8ffL	.
+16AL 16c 16f	8gg	.
+16AJJ 16c 16f	.	.
+8FL	8aa	.
+16AL 16c 16f	8bb-J	.
+16AJJ 16c 16f	.	.
+=	=	=
+16FKL	16bbnKL	.
+8A 8c 8f	8ccc	.
+16AJk 16c 16f	16fffJk	.
+8CL	(16dddLL	.
+.	16ccc	.
+8AJ 8c 8f	16aa	.
+.	16ffJJ)	.
+!!linebreak:original
+=	=	=
+8EL	4cc	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+8CL	4bb- 4ddd	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+=	=	=
+16EKL	16r	.
+8B- 8c 8e	8eeL 8ccc	.
+16B-Jk 16c 16e	16ee-XJk 16bbn	.
+8CL	8ddL 8bb-X	.
+8B-J 8c 8e	8b-J 8dd	.
+=	=	=
+8FL	4a 4cc	.
+16AL 16c 16f	.	.
+16AJJ 16c 16f	.	.
+8CL	4aa 4ccc	.
+16AL 16c 16f	.	.
+16AJJ 16c 16f	.	.
+=	=	=
+16FKL	16r	.
+8A 8c 8f	8aaL	.
+16AJk 16c 16f	16ffJk	.
+8CL	8ccL	.
+8AJ 8c 8f	8aJ	.
+=	=	=
+8DL	4f	.
+16AL 16d 16f	.	.
+16AJJ 16d 16f	.	.
+8FL	4a 4ff	.
+16AL 16d 16f	.	.
+16AJJ 16d 16f	.	.
+=	=	=
+*d:	*d:	*
+16DKL	16r	.
+8A 8d 8f	8eeL	.
+16AJk 16d 16f	16ddJk	.
+8AL 8d 8f	8cc#XL	.
+8AJ 8d 8f	8ddJ	.
+!!linebreak:original
+=	=	=
+8AAL	[4a [4aa	.
+16GL 16A 16c#X 16e	.	.
+16GJJ 16A 16c# 16e	.	.
+8EL	8aL] 8aa]	.
+16GL 16A 16c# 16e	8eeJ	.
+16GJJ 16A 16c# 16e	.	.
+=	=	=
+8AAL	2a 2aa	.
+8AA^ 8A	.	.
+8BB-^ 8B-	.	.
+8BBn^J 8Bn	.	.
+=:|!	=:|!	=:|!
+8DL	4b-	.
+16B-L 16d 16g	.	.
+16B-JJ 16d 16g	.	.
+8GL	4dd 4gg	.
+16B-L 16d 16g	.	.
+16B-JJ 16d 16g	.	.
+=	=	=
+8CL	4cc	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+8EL	4ee 4ccc	.
+16B-L 16c 16e	.	.
+16B-JJ 16c 16e	.	.
+=	=	=
+8FL	2a 2ff	.
+16AL 16c 16f	.	.
+16AJJ 16c 16f	.	.
+8CL	.	.
+16AL 16c 16f	.	.
+16AJJ 16c 16f	.	.
+=	=	=
+4F 4A 4c 4f	8a 8ff	.
+.	8r	.
+4AA^ 4C#X 4E 4A	4cc#X^ 4gg 4aa	f
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!AGN: Tango
+!!!EED: Florian Moldaschl
+!!!END: 2025/12/23
+!!!ENC: Florian Moldaschl
+!!!EEV: 2025/12/23
+!!!title: @{OPR}, @{SCT} №@{ONM}
