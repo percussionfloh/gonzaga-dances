@@ -25,15 +25,15 @@
 |Chi (Xi)|Tango|✓|
 |Choro|Tango-Choro|✓|
 |Diabinho|Tango carnavalesco|✓|
-|Evoe|Tango carnavalesco, Batuque|✗| https://pt.wikipedia.org/wiki/Z%C3%A9_Pereira
-|Faceiro|Tango|✗|
-|Gaucho|Tango brasileiro, Batuque|✗|
-|Julia|Tango|✗|
-|Linda Morena|Choro-Tango|✗|
-|O jagunço|Tango característico brasileiro|✗|
-|Saci pererê|Tango brasileiro|✗|
-|São Paulo|Tango brasileiro|✗|
-|Sedutor|Tango|✗|
+|Evoe|Tango carnavalesco, Batuque|✓| https://pt.wikipedia.org/wiki/Z%C3%A9_Pereira
+|Faceiro|Tango|✓|
+|Gaucho|Tango brasileiro, Batuque|✓|
+|Julia|Tango|✓|
+|Linda Morena|Choro-Tango|✓|
+|O jagunço|Tango característico brasileiro|✓|
+|Saci pererê|Tango brasileiro|✓|
+|São Paulo|Tango brasileiro|✓|
+|Sedutor|Tango|✓|
 |Só na flauta|Tango-choro|✗|
 |So no choro|Tango característico|✗|
 |Suspiro|Tango|✗|
