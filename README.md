@@ -34,14 +34,14 @@
 |Saci pererê|Tango brasileiro|✓|
 |São Paulo|Tango brasileiro|✓|
 |Sedutor|Tango|✓|
-|Só na flauta|Tango-choro|✗|
-|So no choro|Tango característico|✗|
-|Suspiro|Tango|✗|
-|Tambyquererê|Tango|✗|
-|Tango brasileiro|Tango brasileiro|✗|
-|Tango característico|Tango característico|✗|
-|Tango carlino desempregado|Tango|✗|
-|Tango ha alguma novidade|Tango|✗|
-|Tim Tim|Tango|✗|
-|Tupa|Tango brasileiro|✗|
-|Yo te adoro|Tango|✗|
+|Só na flauta|Tango-choro|✓|
+|So no choro|Tango característico|✓|
+|Suspiro|Tango|✓|
+|Tambyquererê|Tango|✓|
+|Tango brasileiro|Tango brasileiro|✓|
+|Tango característico|Tango característico|✓|
+|Tango carlino desempregado|Tango|✓|
+|Tango ha alguma novidade|Tango|✓|
+|Tim Tim|Tango|✓|
+|Tupa|Tango brasileiro|✓|
+|Yo te adoro|Tango|✓|
