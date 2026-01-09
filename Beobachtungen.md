@@ -76,4 +76,16 @@ Form: Intro-Thema-Intro-Thema-Trio-Intro-Thema
 keine Appg in 1. Thema, Trio auch nicht
 keine Chromatik
 
-O diabinho (Tango carnavalesco):
+O diabinho (Tango carnavalesco): 
+keine Pentatonik
+selten Chromatik, manchmal #4 oder chr approaches
+Vorhalte wenn dann in T. 3+4 des Themas, Auflösung nicht auf schwerer oder halbschwerer Zählzeit
+A(Bb)-B(Eb)-A(Bb)-C(Eb)
+
+Evoé:
+Orgelpunktintro
+Pentatonik add7 meistens auf 2. Sechzehntel
+chromatik wenn bei Dominanten
+A(C)-B(F)-A(C)
+
+Faceiro:
