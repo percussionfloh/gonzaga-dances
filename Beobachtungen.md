@@ -93,3 +93,25 @@ Faceiro:
 A(F)-B(C)-A(F)-C(Bb)
 * b6 in T14 und T 63
 sehr wenig Vorhalte
+
+Gaucho:
+* A: Wechselspiel zwischen Batuque(akkordisch) und Canto (melodisch, mit Chrom. Wechselnoten)
+B: chromatik, 79 Akkorde, fängt auf V an
+A(d)-B(F)-A(d)
+Wenige Vorhalte
+
+Julia:
+A: pentatonisch, Quintfall T7-9, viele Vorhalte,
+ aufgelöst meist auf 1e
+B: pentatonisch, manchmal Chrom. Linien T 21 & T23,
+ viele Vorhalte, aufgelöst meist auf 1e
+C: nur akkordtöne, *T56 & T61
+A(F)-B(d)-A(F)-C(Bb)
+
+Linda Morena:
+A: Melodie oft Wechsel zw 6 und 5, * T8, erste Klammer E zweite e
+B: harmonisch interessant, * T16
+C: viele Vorhalte (4, 9, 6 (T31)), *T 35-37
+
+
+
