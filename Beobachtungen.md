@@ -113,5 +113,17 @@ A: Melodie oft Wechsel zw 6 und 5, * T8, erste Klammer E zweite e
 B: harmonisch interessant, * T16
 C: viele Vorhalte (4, 9, 6 (T31)), *T 35-37
 
+O jagunço:
+V-I Intro
+A: nur einmal Pentatonisch (TonikaAdd6), keine Vorhalte, *T12: rall. & chrom.; Wiederholung mit anderem Ende, Intro wird wiederholt
+B: harmonisch interessant, selten Pentatonik
+Intro-A(F)-Intro-B(C)
 
+Saci-pererê:
+VI-Intro
+A: fast nur Akkordtöne, +TonikaAdd6
+B: überwiegend Akkordtöne, Vorhalte nur auf 1e
+C: Interlude?, gelegentlich Chromatik, durchgehende Sechzehntel im Bass
+D (Coda): wenig Chromatik, wenige Vorhalte
+A(C)-B(C)-C(G(viel kürzer))-(D(Coda)F)
 
