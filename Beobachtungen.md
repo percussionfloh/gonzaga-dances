@@ -89,3 +89,7 @@ chromatik wenn bei Dominanten
 A(C)-B(F)-A(C)
 
 Faceiro:
+1.Thema Pentatonisch, 2. nur Akkordtöne, 3. eher akkordisch
+A(F)-B(C)-A(F)-C(Bb)
+* b6 in T14 und T 63
+sehr wenig Vorhalte
