@@ -158,3 +158,22 @@ Tambyquerere:
 Tango brasileiro:
 nichts besonderes
 
+Tango caracteristico:
+*2 Takte Auftakt zu A mit dim.
+*T53 Vordersatz von C-Teil
+
+Tango:
+*Chromatik im Auftakt zu A
+
+Tango alguma:
+*A(F)-B(f)
+
+Tim Tim:
+nichts besonders
+
+Tupa:
+*Thema mit Skalen
+viel Chromatik, vA bei Septakkorden
+
+ Yo te adoro:
+ *simples Intro
