@@ -127,3 +127,22 @@ C: Interlude?, gelegentlich Chromatik, durchgehende Sechzehntel im Bass
 D (Coda): wenig Chromatik, wenige Vorhalte
 A(C)-B(C)-C(G(viel kürzer))-(D(Coda)F)
 
+Sao-Paolo:
+*Intro
+*T12
+*T20&21
+*T26
+*37-40 kind of Lamento
+
+Sedutor:
+*Intro
+*A: F und f Wechsel
+*T33
+
+So na flauta:
+*Intro
+*8-16-16 Bassmotiv
+
+So no choro:
+*Ab 35 besonders
+
