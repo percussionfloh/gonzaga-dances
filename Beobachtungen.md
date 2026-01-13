@@ -146,3 +146,15 @@ So na flauta:
 So no choro:
 *Ab 35 besonders
 
+Suspiro:
+*Melodieführung in A
+*Choral in B
+
+Tambyquerere:
+*beginnt auf b6
+*2mal 2 Takte Zwischenspiel
+*oft DesDur in F Dur
+
+Tango brasileiro:
+nichts besonderes
+
