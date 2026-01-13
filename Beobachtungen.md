@@ -128,52 +128,52 @@ D (Coda): wenig Chromatik, wenige Vorhalte
 A(C)-B(C)-C(G(viel kürzer))-(D(Coda)F)
 
 Sao-Paolo:
-*Intro
-*T12
-*T20&21
-*T26
-*37-40 kind of Lamento
+* Intro
+* T12
+* T20&21
+* T26
+* 37-40 kind of Lamento
 
 Sedutor:
-*Intro
-*A: F und f Wechsel
-*T33
+* Intro
+* A: F und f Wechsel
+* T33
 
 So na flauta:
-*Intro
-*8-16-16 Bassmotiv
+* Intro
+* 8-16-16 Bassmotiv
 
 So no choro:
-*Ab 35 besonders
+* Ab 35 besonders
 
 Suspiro:
-*Melodieführung in A
-*Choral in B
+* Melodieführung in A
+* Choral in B
 
 Tambyquerere:
-*beginnt auf b6
-*2mal 2 Takte Zwischenspiel
-*oft DesDur in F Dur
+* beginnt auf b6
+* 2mal 2 Takte Zwischenspiel
+* oft DesDur in F Dur
 
 Tango brasileiro:
 nichts besonderes
 
 Tango caracteristico:
-*2 Takte Auftakt zu A mit dim.
-*T53 Vordersatz von C-Teil
+* 2 Takte Auftakt zu A mit dim.
+* T53 Vordersatz von C-Teil
 
 Tango:
-*Chromatik im Auftakt zu A
+* Chromatik im Auftakt zu A
 
 Tango alguma:
-*A(F)-B(f)
+* A(F)-B(f)
 
 Tim Tim:
 nichts besonders
 
 Tupa:
-*Thema mit Skalen
+* Thema mit Skalen
 viel Chromatik, vA bei Septakkorden
 
  Yo te adoro:
- *simples Intro
+ * simples Intro
