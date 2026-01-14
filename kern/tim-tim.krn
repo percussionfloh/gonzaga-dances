@@ -4,7 +4,6 @@
 **kern	**kern	**text	**text	**dynam
 *part1	*part1	*part1	*part1	*part1
 *staff2	*staff1	*staff1	*staff1	*
-*I"Piano	*	*	*	*
 *clefF4	*clefG2	*	*	*
 *k[b-]	*k[b-]	*	*	*
 *M2/4	*M2/4	*	*	*
@@ -15,35 +14,35 @@
 16BB-K	16EKL 16c	.	.	.
 8C	8B- 8e	.	.	.
 8BB-J	8EJ 8c	.	.	.
-=	=	=	=	=
+=2	=2	=2	=2	=2
 8.CL	8B-L 8e	.	.	.
 .	8E 8c	.	.	.
 16BB-K	.	.	.	.
 8C	8B- 8e	.	.	.
 8BB-J	8EJ 8c	.	.	.
-=	=	=	=	=
+=3	=3	=3	=3	=3
 8.CC^L	8.r	.	.	.
 16AAK	16FKL 16c	.	.	.
 8C	8A 8f	.	.	.
 8AAJ	8FJ 8c	.	.	.
-=	=	=	=	=
+=4	=4	=4	=4	=4
 8.CL	8AL 8f	.	.	.
 .	8F 8c	.	.	.
 16AAK	.	.	.	.
 8C	8A 8f	.	.	.
 8AAJ	8FJ 8c	.	.	.
-=	=	=	=	=
+=5	=5	=5	=5	=5
 8.CC^L	8.r	.	.	.
 16BB-K	16EKL 16c	.	.	.
 8C	8B- 8e	.	.	.
 8BB-J	8EJ 8c	.	.	.
-=	=	=	=	=
+=6	=6	=6	=6	=6
 8.C^L	8a^L	.	.	.
 .	8B- 8e	.	.	.
 16BB-K	.	.	.	.
 8C	8g^	.	.	.
 8BB-J	8B-J 8e	.	.	.
-=	=	=	=	=
+=7	=7	=7	=7	=7
 8.CC^L	8f^L	.	.	.
 .	8A 8c	.	.	.
 16AAK	.	.	.	.
@@ -51,139 +50,139 @@
 .	8FJ 8B-	.	.	.
 16BB-Jk	.	.	.	.
 !!linebreak:original
-=	=	=	=	=
+=8	=8	=8	=8	=8
 8.AAL	8cL	.	.	.
 .	8FJ 8A	.	.	.
 16AAK	.	.	.	.
 8GG	4r	.	.	.
 8FFJ	.	.	.	.
-=	=	=	=	=
+=9	=9	=9	=9	=9
 8.CC^L	8.r	.	.	.
 16BB-K	16EKL 16c	.	.	.
 8C	8B- 8e	.	.	.
 8BB-J	8EJ 8c	.	.	.
-=	=	=	=	=
+=10	=10	=10	=10	=10
 8.CL	8B-L 8e	.	.	.
 .	8E 8c	.	.	.
 16BB-K	.	.	.	.
 8C	8B- 8e	.	.	.
 8BB-J	8EJ 8c	.	.	.
-=	=	=	=	=
+=11	=11	=11	=11	=11
 8.CC^L	8.r	.	.	.
 16AAK	16FKL 16c	.	.	.
 8C	8A 8f	.	.	.
 8AAJ	8FJ 8c	.	.	.
-=	=	=	=	=
+=12	=12	=12	=12	=12
 8.CL	8AL 8f	.	.	.
 .	8F 8c	.	.	.
 16AAK	.	.	.	.
 8C	8A 8f	.	.	.
 8AAJ	8FJ 8c	.	.	.
-=	=	=	=	=
+=13	=13	=13	=13	=13
 8.CC^L	8.r	.	.	.
 16BBnJk	16F 16d	.	.	.
 4D	4Bn 4g	.	.	.
-=	=	=	=	=
+=14	=14	=14	=14	=14
 8.CCL	8.r	.	.	.
 16BB-Jk	16B- 16g	.	.	.
 [4C	[4e [4cc	.	.	.
-=	=	=	=	=
+=15	=15	=15	=15	=15
 8C]	4e] 4cc]	.	.	.
 16r	.	.	.	.
 16C	.	.	.	.
 8CL	4r	.	.	.
 8CJ	.	.	.	.
 !!linebreak:original
-=	=	=	=	=
+=16	=16	=16	=16	=16
 8C	8r	.	.	.
 8r;	8r;	.	.	.
 !	!LO:TX:a:t=Tango	!	!	!
 .	8qcc/	.	.	.
 4r	8aL 8ff	.	.	.
 .	8aJ 8ff	.	.	.
-=||	=||	=||	=||	=||
+=17||	=17||	=17||	=17||	=17||
 .	(8qee/	.	.	.
 8.DL	16bnKL) 16dd	.	.	.
 .	8cc#X	.	.	.
 16FJk 16Bn 16d	16ddJk	.	.	.
 8EL	8eeL 8aa	.	.	.
 8B-XJ 8c 8e	8b-XJ 8gg	Tim-	.	.
-=	=	=	=	=
+=18	=18	=18	=18	=18
 8.FL	8.aL 8.cc	-tim	.	.
 16AJk 16c 16f	16aJk 16cc	.	.	.
 8AL 8c 8f	8aL 8ff	.	.	.
 8AJ 8c 8f	8aJ 8ff	.	.	.
-=	=	=	=	=
+=19	=19	=19	=19	=19
 .	(8qa/	.	.	.
 8.CL	16eKL) 16g	.	.	.
 .	8f#X	.	.	.
 16GJk 16B- 16c	16gJk	.	.	.
 8EL	8eL 8cc	.	.	.
 8GJ 8B- 8c	8eJ 8b-	Tim-	.	.
-=	=	=	=	=
+=20	=20	=20	=20	=20
 8.FL	8.fL 8.a	-tim	.	.
 16AJk 16c 16f	16ccJk	.	.	.
 8AL 8c 8f	8aL 8ff	.	.	.
 8AJ 8c 8f	8aJ 8ff	.	.	.
-=	=	=	=	=
+=21	=21	=21	=21	=21
 .	(8qee/	.	.	.
 8.DL	16bnKL) 16dd	.	.	.
 .	8cc#X	.	.	.
 16FJk 16Bn 16d	16ddJk	.	.	.
 8EL	8eeL 8aa	.	.	.
 8B-XJ 8c 8e	8b-XJ 8gg	Tim-	.	.
-=	=	=	=	=
+=22	=22	=22	=22	=22
 8.FL	8.aL 8.cc	-tim	.	.
 16AJk 16c 16f	16aJk 16cc	.	.	.
 8AL 8c 8f	8aL 8ff	.	.	.
 8AJ 8c 8f	8aJ 8ff	.	.	.
 !!linebreak:original
-=	=	=	=	=
+=23	=23	=23	=23	=23
 .	(8qff/	.	.	.
 8.GGL	16ccKL) 16ee	.	.	.
 .	8dd#X	.	.	.
 16GJk 16c 16e	16eeJk	.	.	.
 8GGL	8bnL 8gg	.	.	.
 8GJ 8Bn 8f	8bJ 8ff	Tim-	.	.
-=	=	=	=	=
+=24	=24	=24	=24	=24
 8CL	8.ccL 8.ee	-tim	.	.
 8GJ 8c 8e	.	.	.	.
 .	16cccJk	.	.	.
 4r	8aaL 8fff	.	.	.
 .	8aaJ 8fff	.	.	.
-=	=	=	=	=
+=25	=25	=25	=25	=25
 .	(8qeee/	.	.	.
 8.DL	16bbnKL) 16ddd	.	.	.
 .	8ccc#X	.	.	.
 16FJk 16Bn 16d	16dddJk	.	.	.
 8EL	8aaL 8eee	.	.	.
 8B-XJ 8c 8e	8bb-XJ 8ggg	Tim-	.	.
-=	=	=	=	=
+=26	=26	=26	=26	=26
 8.FL	8.aaL 8.ccc	-tim	.	.
 16AJk 16c 16f	16aaJk 16ccc	.	.	.
 8AL 8c 8f	8aaL 8fff	.	.	.
 8AJ 8c 8f	8aaJ 8fff	.	.	.
-=	=	=	=	=
+=27	=27	=27	=27	=27
 .	(8qaa/	.	.	.
 8.CL	16eeKL) 16gg	.	.	.
 .	8ff#X	.	.	.
 16GJk 16B- 16c	16ggJk	.	.	.
 8EL	8eeL 8ccc	.	.	.
 8B-J 8c 8e	8eeJ 8bb-	.	Tim-	.
-=	=	=	=	=
+=28	=28	=28	=28	=28
 8.FL	8.ff^L 8.aa	.	-tim	.
 16AJk 16c 16f	16ccJk	.	.	.
 8AL 8c 8f	8aL 8ff	.	.	.
 8AJ 8c 8f	8aJ 8ff	.	.	.
 !!linebreak:original
-=	=	=	=	=
+=29	=29	=29	=29	=29
 .	(8qee/	.	.	.
 8.DL	16bnKL) 16dd	.	.	.
 .	8cc#X	.	.	.
 16FJk 16Bn 16d	16ddJk	.	.	.
 8EL	8eeL 8aa	.	.	.
 8B-XJ 8c 8e	8b-XJ 8gg	Tim-	.	.
-=	=	=	=	=
+=30	=30	=30	=30	=30
 8C^L	8.cc^:L 8.ff: 8.aa: 8.ccc:	-tim	.	.
 8AJ 8c 8f	.	.	.	.
 .	16ccJk	.	.	.
@@ -191,34 +190,34 @@
 .	16ee	.	.	.
 8B-J 8d 8g	16ff	.	.	.
 .	16ggJJ	.	.	.
-=	=	=	=	=
+=31	=31	=31	=31	=31
 8C^L	16aaLL	.	.	.
 .	16bb-	.	.	.
 8AJ 8c 8f	16bbn	.	.	.
 .	16cccJJ	.	.	.
 8CC^L	8dddL	.	.	.
 8B-J 8c 8e 8g	8eeeJ	Tim-	.	.
-=	=	=	=	=
+=32	=32	=32	=32	=32
 8F 8A 8c 8f	8fff	-tim	.	.
 8r	8r	.	.	.
 4r	16aaKL	.	.	.
 *d:	*d:	*d:	*d:	*
 .	8gg#X	.	.	.
 .	16aaJk	.	.	.
-=!|:	=!|:	=!|:	=!|:	=!|:
+=33!|:	=33!|:	=33!|:	=33!|:	=33!|:
 8.AAL	16bb-^KL	.	.	.
 .	8aa	.	.	.
 16GJk 16A 16c#X 16e	16eeJk	.	.	.
 8GL 8A 8c# 8e	8aa^L	.	.	.
 8GJ 8A 8c# 8e	8eeJ	.	.	.
-=	=	=	=	=
+=34	=34	=34	=34	=34
 8.F^L	16ff^KL 16aa	.	.	.
 .	8a	.	.	.
 16AJk 16d 16f	(16ffJk 16aa	.	.	.
 8AL 8d 8f	8eeL 8gg	.	.	.
 8AJ 8d 8f	8ddJ) 8ff	.	.	.
 !!pagebreak:original
-=	=	=	=	=
+=35	=35	=35	=35	=35
 .	16qqdd/LL	.	.	.
 .	16qqee/JJ	.	.	.
 8.BB-^L	16ddKL	.	.	.
@@ -227,13 +226,13 @@
 8DL 8G	8aL	.	.	.
 .	(8qcc/	.	.	.
 8BB-J	8b-J)	.	.	.
-=	=	=	=	=
+=36	=36	=36	=36	=36
 8AAL	8.a^L	.	.	.
 8GJ 8A 8c#X 8e	.	.	.	.
 .	16aaJk	.	.	.
 4r	8gg#X'L	.	.	.
 .	8aa'J	.	.	.
-=	=	=	=	=
+=37	=37	=37	=37	=37
 8.C#X^L	(16eeeLL	.	.	.
 .	16ddd	.	.	.
 .	16ccc#X	.	.	.
@@ -242,13 +241,13 @@
 .	16gg	.	.	.
 8GJ 8A 8c# 8e	16ff	.	.	.
 .	16eeJJ)	.	.	.
-=	=	=	=	=
+=38	=38	=38	=38	=38
 8.D^L	16ff^KL 16aa	.	.	.
 .	8a	.	.	.
 16FJk 16A 16d	(16ffJk 16aa	.	.	.
 8FL 8A 8d	8eeL 8gg	.	.	.
 8FJ 8A 8d	8ddJ) 8ff	.	.	.
-=	=	=	=	=
+=39	=39	=39	=39	=39
 .	(16qqdd/LL	.	.	.
 .	16qqee/JJ	.	.	.
 8.BB-L	(16ddLL)	.	.	.
@@ -257,102 +256,102 @@
 16DJk 16G	16eeJJ)	.	.	.
 8DL 8G	8ffL	.	.	.
 8B-J	8ggJ	.	.	.
-=	=	=	=	=
+=40	=40	=40	=40	=40
 8AL	8cc#X^: 8aa:	.	.	.
 8AAJ	8r	.	.	.
 4r	8.r	.	.	.
 .	16aa	.	.	.
 !!linebreak:original
-=:|!	=:|!	=:|!	=:|!	=:|!
+=41:|!	=41:|!	=41:|!	=41:|!	=41:|!
 8AA 8A	8cc#X 8aa	.	.	.
 8r;	8r;	.	.	.
 .	(8qccn/	.	.	.
 4r	8aL) 8ff	.	.	.
 *F:	*F:	*F:	*F:	*
 .	8aJ 8ff	.	.	.
-=||	=||	=||	=||	=||
+=42||	=42||	=42||	=42||	=42||
 .	(8qee/	.	.	.
 8.DL	16bnKL) 16dd	.	.	.
 .	8cc#X	.	.	.
 16FJk 16Bn 16d	16ddJk	.	.	.
 8EL	8eeL 8aa	.	.	.
 8B-XJ 8c 8e	8b-XJ 8gg	Tim-	.	.
-=	=	=	=	=
+=43	=43	=43	=43	=43
 8.FL	8.aL 8.cc	-tim	.	.
 16AJk 16c 16f	16aJk 16cc	.	.	.
 8AL 8c 8f	8aL 8ff	.	.	.
 8AJ 8c 8f	8aJ 8ff	.	.	.
-=	=	=	=	=
+=44	=44	=44	=44	=44
 .	(8qa/	.	.	.
 8.CL	16eKL) 16g	.	.	.
 .	8f#X	.	.	.
 16GJk 16B- 16c	16gJk	.	.	.
 8EL	8eL 8cc	.	.	.
 8GJ 8B- 8c	8eJ 8b-	Tim-	.	.
-=	=	=	=	=
+=45	=45	=45	=45	=45
 8.FL	8.fL 8.a	-tim	.	.
 16AJk 16c 16f	16ccJk	.	.	.
 8AL 8c 8f	8aL 8ff	.	.	.
 8AJ 8c 8f	8aJ 8ff	.	.	.
-=	=	=	=	=
+=46	=46	=46	=46	=46
 .	(8qee/	.	.	.
 8.DL	16bnKL) 16dd	.	.	.
 .	8cc#X	.	.	.
 16FJk 16Bn 16d	16ddJk	.	.	.
 8EL	8eeL 8aa	.	.	.
 8B-XJ 8c 8e	8b-XJ 8gg	Tim-	.	.
-=	=	=	=	=
+=47	=47	=47	=47	=47
 8.FL	8.aL 8.cc	-tim	.	.
 16AJk 16c 16f	16aJk 16cc	.	.	.
 8AL 8c 8f	8aL 8ff	.	.	.
 8AJ 8c 8f	8aJ 8ff	.	.	.
 !!linebreak:original
-=	=	=	=	=
+=48	=48	=48	=48	=48
 .	(8qee/	.	.	.
 8.GGL	16ccKL) 16ee	.	.	.
 .	8dd#X	.	.	.
 16GJk 16c 16e	16eeJk	.	.	.
 8GGL	8bnL 8gg	.	.	.
 8GJ 8Bn 8f	8bJ 8ff	Tim-	.	.
-=	=	=	=	=
+=49	=49	=49	=49	=49
 8CL	8.ccL 8.ee	-tim	.	.
 8GJ 8c 8e	.	.	.	.
 .	16cccJk	.	.	.
 4r	8aaL 8fff	.	.	.
 .	8aaJ 8fff	.	.	.
-=	=	=	=	=
+=50	=50	=50	=50	=50
 .	(8qddd/	.	.	.
 8.DL	16bbnKL) 16ddd	.	.	.
 .	8ccc#X	.	.	.
 16FJk 16Bn 16d	16dddJk	.	.	.
 8EL	8aaL 8eee	.	.	.
 8B-XJ 8c 8e	8bb-XJ 8ggg	Tim-	.	.
-=	=	=	=	=
+=51	=51	=51	=51	=51
 8.FL	8.aaL 8.ccc	-tim	.	.
 16AJk 16c 16f	16aaJk 16ccc	.	.	.
 8AL 8c 8f	8aaL 8fff	.	.	.
 8AJ 8c 8f	8aaJ 8fff	.	.	.
-=	=	=	=	=
+=52	=52	=52	=52	=52
 .	(8qaa/	.	.	.
 8.CL	16eeKL) 16gg	.	.	.
 .	8ff#X	.	.	.
 16GJk 16B- 16c	16ggJk	.	.	.
 8EL	8eeL 8ccc	.	.	.
 8B-J 8c 8e	8eeJ 8bb-	Tim-	.	.
-=	=	=	=	=
+=53	=53	=53	=53	=53
 8.FL	8.ffL 8.aa	-tim	.	.
 16AJk 16c 16f	16ccJk	.	.	.
 8AL 8c 8f	8aL 8ff	.	.	.
 8AJ 8c 8f	8aJ 8ff	.	.	.
 !!linebreak:original
-=	=	=	=	=
+=54	=54	=54	=54	=54
 .	(8qee/	.	.	.
 8.DL	16bnKL) 16dd	.	.	.
 .	8cc#X	.	.	.
 16FJk 16Bn 16d	16ddJk	.	.	.
 8EL	8eeL 8aa	.	.	.
 8B-XJ 8c 8e	8b-XJ 8gg	Tim-	.	.
-=	=	=	=	=
+=55	=55	=55	=55	=55
 8C^L	8.cc^:L 8.ff: 8.aa: 8.ccc:	-tim	.	.
 8AJ 8c 8f	.	.	.	.
 .	16ccJk	.	.	.
@@ -360,14 +359,14 @@
 .	16ee	.	.	.
 8B-J 8d 8g	16ff	.	.	.
 .	16ggJJ	.	.	.
-=	=	=	=	=
+=56	=56	=56	=56	=56
 8C^L	16aaLL	.	.	.
 .	16bb-	.	.	.
 8AJ 8c 8f	16bbn	.	.	.
 .	16cccJJ	.	.	.
 8CC^L	8dddL	.	.	.
 8B-J 8c 8e 8g	8eeeJ	Tim-	.	f
-=	=	=	=	=
+=57	=57	=57	=57	=57
 8F 8A 8c 8f	8fff	-tim	.	.
 8r	8r	.	.	.
 4r	4r	.	.	.
@@ -378,5 +377,5 @@
 !!!EED: Florian Moldaschl
 !!!END: 2025/12/26
 !!!ENC: Florian Moldaschl
-!!!EEV: 2025/12/26
+!!!EEV: 2026/01/14
 !!!title: @{OPR}, @{SCT} №@{ONM}

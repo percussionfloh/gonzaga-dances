@@ -4,7 +4,6 @@
 **kern	**kern
 *part1	*part1
 *staff2	*staff1
-*I"Piano	*
 *clefF4	*clefG2
 *k[b-]	*k[b-]
 *M2/4	*M2/4
@@ -15,33 +14,33 @@
 16AJk 16c	16aJk 16cc
 8CL	8aL 8cc 8gg
 8FJ 8A 8c	8aJ 8cc 8ff
-=	=
+=2	=2
 16EKL	8.b-L 8.ee 8.bb-
 8B- 8c 8e	.
 16B-Jk 16c 16e	16b-^Jk 16ee 16bb-
 16CKL	16r
 8B- 8c 8e	8dddL
 16B-Jk 16c 16e	16cccJk
-=	=
+=3	=3
 16EKL	16bb-KL
 8B- 8c 8e	8gg
 16B-Jk 16c 16e	16ccJk
 8CL	8aaL
 8B-J 8c 8e	8b-J 8gg
-=	=
+=4	=4
 16FKL	8.aL 8.cc
 8A 8c 8f	.
 16AJk 16c 16f	16aJk 16cc
 16CKL	16r
 8A 8c 8f	8aL 8dd
 16AJk 16c 16f	16aJk 16cc
-=	=
+=5	=5
 16FKL	16aKL 16cc 16gg
 8A 8c 8f	8a 8cc 8ff
 16AJk 16c 16f	16aJk 16cc
 8CL	8aL 8cc 8gg
 8AJ 8c 8f	8aJ 8cc 8ff
-=	=
+=6	=6
 16GGKL	8.gL 8.cc 8.ff
 8G 8c 8e	.
 16GJk 16c 16e	16gJk 16cc 16ee
@@ -49,13 +48,13 @@
 8G 8c 8e	8gL 8cc 8ff
 16GJk 16c 16e	16gJk 16cc 16ee
 !!linebreak:original
-=	=
+=7	=7
 16DDKL	16f#XKL
 8F#X 8c 8d	8cc 8ee
 16F#Jk 16c 16d	16f#Jk 16cc 16dd
 8GGL	8fnL 8bn 8ee
 8GJ 8Bn 8f	8ddJ
-=	=
+=8	=8
 4C 4G 4B-	(16ccLL 16aa
 .	16gg
 .	16ee
@@ -64,26 +63,26 @@
 .	16g
 .	16e
 .	16cJJ)
-=	=
+=9	=9
 16FFKL	16fKL 16a 16cc
 8F 8A 8c	8f 8dd
 16FJk 16A 16c	16aJk 16cc
 8CL	8aL 8cc 8gg
 8FJ 8A 8c	8aJ 8cc 8ff
-=	=
+=10	=10
 16EKL	8.b-L 8.ee 8.bb-
 8B- 8c 8e	.
 16B-Jk 16c 16e	16b-^Jk 16ee 16bb-
 16CKL	16r
 8B- 8c 8e	8dddL
 16B-Jk 16c 16e	16cccJk
-=	=
+=11	=11
 16EKL	16bb-KL
 8B- 8c 8e	8gg
 16B-Jk 16c 16e	16ccJk
 8CL	8aaL
 8B-J 8c 8e	8b-J 8gg
-=	=
+=12	=12
 16FKL	8.aL 8.cc
 8A 8c 8f	.
 16AJk 16c 16f	16aJk 16cc
@@ -91,31 +90,31 @@
 8A 8c 8f	8ggL
 16AJk 16c 16f	16ffJk
 !!linebreak:original
-=	=
+=13	=13
 16BB-KL	16b-KL 16ee
 8B- 8d 8g	8b- 8dd
 16B-Jk 16d 16g	16b-Jk 16dd
 8BB-L	8ddL 8ddd
 8B-J 8d 8g	8eeJ 8eee
-=	=
+=14	=14
 16CKL	8.ffL 8.fff
 8A 8c 8f	.
 16AJk 16c 16f	16aaJk
 8CL	8eeeL
 8AJ 8c 8f	8dddJ
-=	=
+=15	=15
 16CKL	16cccKL
 8B- 8c 8e	8bb-
 16B-Jk 16c 16e	16ccJk
 8CL	8ccL 8aa
 8B-J 8c 8e	8b-J 8gg
-=	=
+=16	=16
 16FFKL	4a 4ff
 8A 8c 8f	.
 16AJk 16c 16f	.
 8r	8r
 8FF	8ff 8aa 8ccc 8fff
-=||	=||
+=17||	=17||
 *d:	*
 !	!LO:TX:a:t=Fine
 16AAKL	16gKL 16a
@@ -123,150 +122,150 @@
 16GJk 16A 16c#	16gJk 16a
 8AAL	8gL 8cc#X 8ff
 8GJ 8A 8c#	8gJ 8cc# 8ee
-=	=
+=18	=18
 16DKL	16fKL 16a
 8F 8A 8d	8b-
 16FJk 16A 16d	16fJk 16a
 8AAL	8fL 8a 8ee
 8FJ 8A 8d	8fJ 8a 8dd
-=	=
+=19	=19
 16EKL	16gKL 16cc#X
 8G 8A 8c#X	8ee
 16GJk 16A 16c#	16ggJk
 8AAL	8cc#L 8bb-
 8GJ 8A 8c#	8aaJ
 !!linebreak:original
-=	=
+=20	=20
 16DKL	16gg#XKL
 8F 8A 8d	8aa
 16FJk 16A 16d	16ddJk
 8DL	8ddd
 8FJ 8A 8d	8r
-=	=
+=21	=21
 *F:	*
 16BB-KL	16cccKL
 8B- 8d 8g	8bb-
 16B-Jk 16d 16g	16ddJk
 8BB-L	8cccL
 8B-J 8d-X 8g	8dd-XJ 8bb-
-=	=
+=22	=22
 16CKL	16ccKL 16bb-
 8A 8c 8f	8aa
 16AJk 16c 16f	16ccJk
 8CL	8bb-L
 8AJ 8c 8f	8aaJ
-=	=
+=23	=23
 16GGKL	16bnKL 16aa
 8G 8Bn 8f	8gg
 16GJk 16B 16f	16bJk
 8CL	8b-XL 8aa
 8B-XJ 8c 8e	8b-J 8gg
-=	=
+=24	=24
 16FFKL	16aKL 16gg
 8A 8c 8f	8a 8ff
 16AJk 16c 16f	16b-Jk 16dd
 8FFL	4a 4cc
 8AJ 8c 8f	.
-=	=
+=25	=25
 *d:	*
 16AAKL	16gKL 16a
 8G 8A 8c#X	8g 8b-
 16GJk 16A 16c#	16gJk 16a
 8AAL	8gL 8cc#X 8ff
 8GJ 8A 8c#	8gJ 8cc# 8ee
-=	=
+=26	=26
 16DKL	16fKL 16a
 8F 8A 8d	8b-
 16FJk 16A 16d	16fJk 16a
 8AAL	8fL 8a 8ee
 8FJ 8A 8d	8fJ 8a 8dd
 !!linebreak:original
-=	=
+=27	=27
 16EKL	16gKL 16cc#X
 8G 8A 8c#X	8ee
 16GJk 16A 16c#	16ggJk
 8AAL	8cc#L 8bb-
 8GJ 8A 8c#	8aaJ
-=	=
+=28	=28
 16DKL	16gg#XKL
 8F 8A 8d	8aa
 16FJk 16A 16d	16ddJk
 8DL	8ddd
 8FJ 8A 8d	8r
-=	=
+=29	=29
 *F:	*
 16BB-KL	16cccKL
 8B- 8d 8g	8bb-
 16B-Jk 16d 16g	16ddJk
 8BB-L	8cccL
 8B-J 8d-X 8g	8dd-XJ 8bb-
-=	=
+=30	=30
 16CKL	16ccKL 16bb-
 8A 8c 8f	8aa
 16AJk 16c 16f	16ccJk
 8CL	8bb-L
 8AJ 8c 8f	8aaJ
-=	=
+=31	=31
 16BB-KL	16ggKL
 8B- 8d 8g	8ff#X
 16B-Jk 16d 16g	16ggJk
 8CL	8eeL 8ccc
 8B-J 8c 8e	8b-J 8ee
-=	=
+=32	=32
 16FKL	8a 8ff
 8A 8c 8f	.
 .	8r
 16AJk 16c 16f	.
 8FF	8fff
 8r	8r
-=||	=||
+=33||	=33||
 16FKL	16fKL 16a 16cc
 8A 8c	8f 8dd
 16AJk 16c	16aJk 16cc
 8CL	8aL 8cc 8gg
 8FJ 8A 8c	8aJ 8cc 8ff
 !!pagebreak:original
-=	=
+=34	=34
 16EKL	8.b-L 8.ee 8.bb-
 8B- 8c 8e	.
 16B-Jk 16c 16e	16b-^Jk 16ee 16bb-
 16CKL	16r
 8B- 8c 8e	8dddL
 16B-Jk 16c 16e	16cccJk
-=	=
+=35	=35
 16EKL	16bb-KL
 8B- 8c 8e	8gg
 16B-Jk 16c 16e	16ccJk
 8CL	8aaL
 8B-J 8c 8e	8b-J 8gg
-=	=
+=36	=36
 16FKL	8.aL 8.cc
 8A 8c 8f	.
 16AJk 16c 16f	16aJk 16cc
 16CKL	16r
 8A 8c 8f	8aL 8dd
 16AJk 16c 16f	16aJk 16cc
-=	=
+=37	=37
 16FKL	16aKL 16cc 16gg
 8A 8c 8f	8a 8cc 8ff
 16AJk 16c 16f	16aJk 16cc
 8CL	8aL 8cc 8gg
 8AJ 8c 8f	8aJ 8cc 8ff
-=	=
+=38	=38
 16GGKL	8.gL 8.cc 8.ff
 8G 8c 8e	.
 16GJk 16c 16e	16gJk 16cc 16ee
 16GGKL	16r
 8G 8c 8e	8gL 8cc 8ff
 16GJk 16c 16e	16gJk 16cc 16ee
-=	=
+=39	=39
 16DDKL	16f#XKL
 8F#X 8c 8d	8cc 8ee
 16F#Jk 16c 16d	16f#Jk 16cc 16dd
 8GGL	8fnL 8bn 8ee
 8GJ 8Bn 8f	8ddJ
 !!linebreak:original
-=	=
+=40	=40
 4C 4G 4B-	(16ccLL 16aa
 .	16gg
 .	16ee
@@ -275,58 +274,58 @@
 .	16g
 .	16e
 .	16cJJ)
-=	=
+=41	=41
 16FFKL	16fKL 16a 16cc
 8F 8A 8c	8f 8dd
 16FJk 16A 16c	16aJk 16cc
 8CL	8aL 8cc 8gg
 8FJ 8A 8c	8aJ 8cc 8ff
-=	=
+=42	=42
 16EKL	8.b-L 8.ee 8.bb-
 8B- 8c 8e	.
 16B-Jk 16c 16e	16b-^Jk 16ee 16bb-
 16CKL	16r
 8B- 8c 8e	8dddL
 16B-Jk 16c 16e	16cccJk
-=	=
+=43	=43
 16EKL	16bb-KL
 8B- 8c 8e	8gg
 16B-Jk 16c 16e	16ccJk
 8CL	8aaL
 8B-J 8c 8e	8b-J 8gg
-=	=
+=44	=44
 16FKL	8.aL 8.cc
 8A 8c 8f	.
 16AJk 16c 16f	16aJk 16cc
 16CKL	16r
 8A 8c 8f	8ggL
 16AJk 16c 16f	16ffJk
-=	=
+=45	=45
 16BB-KL	16b-KL 16ee
 8B- 8d 8g	8b- 8dd
 16B-Jk 16d 16g	16b-Jk 16dd
 8BB-L	8ddL 8ddd
 8B-J 8d 8g	8eeJ 8eee
-=	=
+=46	=46
 16CKL	8.ffL 8.fff
 8A 8c 8f	.
 16AJk 16c 16f	16aaJk
 8CL	8eeeL
 8AJ 8c 8f	8dddJ
 !!linebreak:original
-=	=
+=47	=47
 16CKL	16cccKL
 8B- 8c 8e	8bb-
 16B-Jk 16c 16e	16ccJk
 8CL	8ccL 8aa
 8B-J 8c 8e	8b-J 8gg
-=	=
+=48	=48
 16FFKL	4a 4ff
 8A 8c 8f	.
 16AJk 16c 16f	.
 8r	8r
 8FF	8ff 8aa 8ccc 8fff
-=||	=||
+=49||	=49||
 *B-:	*
 *k[b-e-]	*k[b-e-]
 16BB-KL	16dKL 16f
@@ -335,19 +334,19 @@
 16E-KL	16e-KL 16f
 8A	8e- 8f
 16FJk	16e-Jk 16f
-=	=
+=50	=50
 16BB-KL	16dKL 16f
 8B-	8d 8f
 16FJk	16dJk 16f
 8DL	8dL 8b-
 8B-J	8gJ
-=	=
+=51	=51
 16CKL	16e-KL 16f
 8E- 8A	8e- 8f
 16E-Jk 16A	16cJk
 8FFL	8dL
 8E-J 8A	8cJ 8e-
-=	=
+=52	=52
 16BB-KL	4d^ 4f
 8B-	.
 16FJk	.
@@ -355,58 +354,58 @@
 8B-	.
 16FJk	.
 !!linebreak:original
-=	=
+=53	=53
 16BB-KL	16dKL 16f
 8B-	8d 8f
 16FJk	16dJk 16f
 16E-KL	16e-KL 16f
 8A	8e- 8f
 16FJk	16e-Jk 16f
-=	=
+=54	=54
 16BB-KL	16dKL 16f
 8B-	8d 8f
 16FJk	16dJk 16f
 8DL	8dL 8b-
 8B-J	8dJ 8b-
-=	=
+=55	=55
 16CKL	16cKL 16a
 8F 8A	8f
 16CJk	16aJk
 8CCL	8ccL
 8CJ	8B-J 8g
-=	=
+=56	=56
 16FFKL	4A^ 4f
 8En	.
 16E-XJk	.
 8CL	4r
 8FFJ	.
-=	=
+=57	=57
 16BB-KL	16ddKL 16ff
 8B-	8dd 8ff
 16FJk	16ddJk 16ff
 16E-KL	16ee-KL 16ff
 8A	8ee- 8ff
 16FJk	16ee-Jk 16ff
-=	=
+=58	=58
 16DKL	16ddKL 16ff
 8B-	8dd 8ff
 16FJk	16ddJk 16ff
 8DL	8ddL 8bb-
 8B-J	8ggJ
 !!linebreak:original
-=	=
+=59	=59
 16CKL	16ee-KL 16ff
 8E- 8F 8A	8ee- 8ff
 16E-Jk 16F 16A	16ccJk
 8FFL	8ddL
 8E-J 8F 8A	8ccJ
-=	=
+=60	=60
 16BB-KL	4f^ 4ff
 8F 8B- 8d	.
 16FJk 16B- 16d	.
 8DL	4r
 8FJ 8B- 8d	.
-=	=
+=61	=61
 8.E-L	16r
 .	16ff#XLL
 .	16aa
@@ -415,21 +414,21 @@
 .	16ffn
 8GJ 8c 8e-	16ee-
 .	16fJJ
-=	=
+=62	=62
 16DKL	8dd^ 8ff
 8F 8B- 8d	.
 .	8r
 16FJk 16B- 16d	.
 8FFL	4dd^ 4ff
 8FJ 8B- 8d	.
-=	=
+=63	=63
 8CL	16r
 .	16ccLL
 8E-J 8F 8A	16dd
 .	16ccJJ
 8FFL	8fL
 8FJ 8A 8c	8ffJ
-=	=
+=64	=64
 16BB-KL	8b-
 8F 8B- 8d	.
 .	8r
@@ -442,5 +441,5 @@
 !!!EED: Florian Moldaschl
 !!!END: 2025/12/23
 !!!ENC: Florian Moldaschl
-!!!EEV: 2025/12/23
+!!!EEV: 2026/01/14
 !!!title: @{OPR}, @{SCT} №@{ONM}

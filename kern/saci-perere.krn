@@ -4,7 +4,6 @@
 **kern	**kern
 *part1	*part1
 *staff2	*staff1
-*I"Piano	*
 *clefF4	*clefG2
 *k[]	*k[]
 *M2/4	*M2/4
@@ -18,7 +17,7 @@
 16G	.
 16E	8c 8e 8g
 16GJJ)	.
-=	=
+=2	=2
 (16DLL	8r
 16G	.
 16F	16r
@@ -27,7 +26,7 @@
 16G	.
 16F	8B 8f 8g
 16GJJ)	.
-=	=
+=3	=3
 (16CLL	8r
 16G	.
 16E	16r
@@ -36,7 +35,7 @@
 16G	.
 16E	8c 8e 8g
 16GJJ)	.
-=	=
+=4	=4
 (16DLL	8r
 16G	.
 16F	16r
@@ -45,7 +44,7 @@
 16G	8gL
 16F	.
 16GJJ)	16gJk
-=||	=||
+=5||	=5||
 (16CLL	8eL 8cc
 16G	.
 16E	8e 8cc
@@ -55,7 +54,7 @@
 16E	8fJ 8b
 16GJJ)	.
 !!linebreak:original
-=	=
+=6	=6
 (16DLL	8B 8f 8g
 16G	.
 16F	16r
@@ -64,7 +63,7 @@
 16G	8gL
 16F	.
 16GJJ)	16gJk
-=	=
+=7	=7
 (16CLL	8eL 8cc
 16G	.
 16E	8e 8cc
@@ -73,7 +72,7 @@
 16G	.
 16E	8fJ 8b
 16GJJ)	.
-=	=
+=8	=8
 (16DLL	8B 8f 8g
 16G	.
 16F	16r
@@ -82,7 +81,7 @@
 16G	8gL
 16F	.
 16GJJ)	16gJk
-=	=
+=9	=9
 (16CLL	8eL 8cc
 16G	.
 16E	8e 8cc
@@ -91,7 +90,7 @@
 16G	.
 16E	8eJ 8cc
 16GJJ)	.
-=	=
+=10	=10
 (16DLL	8fL 8dd
 16G	.
 16F	8fJ 8dd
@@ -100,7 +99,7 @@
 16G	.
 16F	8ee
 16GJJ)	.
-=	=
+=11	=11
 (16CLL	16ddKL
 16G	8cc
 16E	.
@@ -110,14 +109,14 @@
 16E	8eJ
 16GJJ)	.
 !!linebreak:original
-=	=
+=12	=12
 (16DLL	8.BL 8.f 8.g
 16G	.
 16F	.
 16GJJ)	16BJk 16f 16g
 8GG	8r
 8r	8gg
-=	=
+=13	=13
 (16CLL	16r
 16G	8eeL
 16E	.
@@ -126,7 +125,7 @@
 16G	.
 16E	8eJ
 16GJJ)	.
-=	=
+=14	=14
 (16DLL	8.BL 8.f 8.g
 16G	.
 16F	.
@@ -135,7 +134,7 @@
 16G	.
 16F	8B 8f 8g
 16GJJ)	.
-=	=
+=15	=15
 (16CLL	8r
 16G	.
 16E	8cL 8e 8g
@@ -144,7 +143,7 @@
 16G	.
 16E	8cJ 8a
 16GJJ)	.
-=	=
+=16	=16
 (16DLL	8B 8f 8g
 16G	.
 16F	16r
@@ -153,7 +152,7 @@
 16G	.
 16F	8gg
 16GJJ)	.
-=	=
+=17	=17
 (16CLL	8.cL 8.e 8.g
 16G	.
 16E	.
@@ -163,7 +162,7 @@
 16E	8gg
 16GJJ)	.
 !!linebreak:original
-=	=
+=18	=18
 (16DLL	8.BL 8.f 8.g
 16G	.
 16F	.
@@ -172,7 +171,7 @@
 16G	.
 16F	8gg
 16GJJ)	.
-=	=
+=19	=19
 (16CLL	8.cL 8.e 8.g
 16G	.
 16E	.
@@ -181,13 +180,13 @@
 16G	.
 16E	8gg
 16GJJ)	.
-=	=
+=20	=20
 8G;	4B; 4f 4g
 8GG	.
 4r	16r
 .	8gL
 .	16ccJk
-=||	=||
+=21||	=21||
 16GGLL	(16bKL
 16f	8aa
 16B	.
@@ -196,7 +195,7 @@
 16d	8a
 16B	.
 16GJJ	16bJk)
-=	=
+=22	=22
 16ELL	8.g^
 16e	.
 16cJJ	.
@@ -205,7 +204,7 @@
 16c	8gL 8cc 8ff
 16G	.
 16EJJ	16eeJk
-=	=
+=23	=23
 16DLL	8.f#X^
 16d	.
 16AJJ	.
@@ -215,7 +214,7 @@
 16G	.
 16FJJ	16fJk 16b 16dd
 !!linebreak:original
-=	=
+=24	=24
 16CLL	8.e^
 16G	.
 16EJJ	.
@@ -224,7 +223,7 @@
 16G	8gL
 16E	.
 16GJJ	16ccJk
-=	=
+=25	=25
 16FLL	(16bKL
 16f	8aa
 16B	.
@@ -233,7 +232,7 @@
 16d	8a
 16B	.
 16GJJ	16bJk)
-=	=
+=26	=26
 16ELL	8.g^
 16e	.
 16cJJ	.
@@ -242,7 +241,7 @@
 16c	8gL 8cc 8ee
 16G	.
 16EJJ	16gJk 16cc 16ee
-=	=
+=27	=27
 16DLL	8.bL 8.dd 8.gg
 16g	.
 16d	.
@@ -251,7 +250,7 @@
 16f#X	8ccL 8ff#X 8aa
 16d	.
 16cJJ	16ccJk 16ff# 16aa
-=	=
+=28	=28
 16BLL	8.ddL 8.gg 8.bb
 16g	.
 16d	.
@@ -261,7 +260,7 @@
 8r	.
 .	16ccJk
 !!pagebreak:original
-=	=
+=29	=29
 16GLL	(16bKL
 16f	8aa
 16B	.
@@ -270,7 +269,7 @@
 16d	8a
 16B	.
 16GJJ	16bJk)
-=	=
+=30	=30
 16ELL	8.g^
 16e	.
 16cJJ	.
@@ -279,7 +278,7 @@
 16c	8gL 8cc 8ff
 16G	.
 16EJJ	16eeJk
-=	=
+=31	=31
 16DLL	8.f#X^
 16d	.
 16AJJ	.
@@ -288,7 +287,7 @@
 16B	8fnL 8b 8ee
 16G	.
 16FJJ	16fJk 16b 16dd
-=	=
+=32	=32
 16CLL	8.e^
 16G	.
 16E	.
@@ -297,7 +296,7 @@
 16G	8gL
 16E	.
 16GJJ	16ccJk
-=	=
+=33	=33
 16DLL	16bKL
 16f	8aa
 16B	.
@@ -307,7 +306,7 @@
 16B	.
 16GJJ	16bJk
 !!linebreak:original
-=	=
+=34	=34
 16ELL	8.g
 16e	.
 16cJJ	.
@@ -316,7 +315,7 @@
 16d	8fL 8a 8dd
 16A	.
 16dJJ	16ccJk
-=	=
+=35	=35
 16GGLL	16eeKL
 16e	8ff
 16c	.
@@ -325,7 +324,7 @@
 16f	8aa
 16B	.
 16GJJ	16bbJk
-=	=
+=36	=36
 16CLL	4ee 4ccc
 16c	.
 16G	.
@@ -333,7 +332,7 @@
 16C	16r
 8.ryy	16ccKL
 .	8ccJ
-=||	=||
+=37||	=37||
 *G:	*
 *k[f#]	*k[f#]
 !	!LO:TX:a:t=Fine
@@ -345,7 +344,7 @@
 16f#	8eee
 16d	.
 16cJJ	16eee-XJk
-=	=
+=38	=38
 16GLL	8.bbL 8.ddd
 16g	.
 16d	.
@@ -355,7 +354,7 @@
 16d	16dd
 16BJJ	16ggJJ)
 !!linebreak:original
-=	=
+=39	=39
 16ALL	8.ff#L 8.ddd
 16f#	.
 16d	.
@@ -364,7 +363,7 @@
 16f#	(16ccLL
 16d	16dd
 16cJJ	16ff#JJ)
-=	=
+=40	=40
 16GLL	8.ddL 8.bb
 16g	.
 16d	.
@@ -373,7 +372,7 @@
 16g	8bL 8dd
 16d	.
 16BJJ	16dd#XJk
-=	=
+=41	=41
 16F#LL	16ccKL 16ee
 16f#	8ccc
 16d	.
@@ -382,7 +381,7 @@
 16f#	8eee
 16d	.
 16cJJ	16eee-XJk
-=	=
+=42	=42
 16GLL	8bb 8ddd
 16g	.
 16d	16r
@@ -391,7 +390,7 @@
 16g	8ddL 8bb
 16d	.
 16BJJ	16ddJk 16bb
-=	=
+=43	=43
 16CLL	8cc 8ee 8bb
 16a	.
 16e	16r
@@ -401,7 +400,7 @@
 16d	.
 16cJJ	16ff#Jk
 !!linebreak:original
-=	=
+=44	=44
 16GLL	4b 4dd 4gg
 16g	.
 16d	.
@@ -410,7 +409,7 @@
 .	8gL
 8r	.
 .	16ccJk
-=||	=||
+=45||	=45||
 *F:	*
 *k[b-]	*k[b-]
 !	!LO:TX:a:t=D.S. al Coda
@@ -422,7 +421,7 @@
 16c	8bb-L
 16A	.
 16FJJ	16aaJk
-=	=
+=46	=46
 16DLL	8f 8bn
 16d	.
 16Bn	16r
@@ -431,7 +430,7 @@
 16d	8aaL
 16B	.
 16FJJ	16ggJk
-=	=
+=47	=47
 16ELL	(16dddLL
 16e	16ccc
 16c	16bb-
@@ -440,7 +439,7 @@
 16e	8dd
 16c	.
 16B-JJ	16dd-XJk)
-=	=
+=48	=48
 16FLL	8cc
 16f	.
 16c	16r
@@ -450,7 +449,7 @@
 16A	8cc
 16FJJ	.
 !!linebreak:original
-=	=
+=49	=49
 16DLL	8f 8b- 8ff
 16f	.
 16B-	16r
@@ -459,7 +458,7 @@
 16d	8fL 8b- 8dd
 16B-	.
 16FJJ	16b-Jk
-=	=
+=50	=50
 16CLL	8f 8a
 16c	.
 16A	16r
@@ -468,7 +467,7 @@
 16c	8ccL
 16A	.
 16FJJ	16aaJk
-=	=
+=51	=51
 16CLL	8e 8b-
 16e	.
 16c	16r
@@ -477,7 +476,7 @@
 16e	8ccL
 16c	.
 16B-JJ	16eeJk
-=	=
+=52	=52
 4F: 4A: 4c: 4f:	(16aLL 16ff
 .	16ee
 .	16ff
@@ -486,7 +485,7 @@
 .	16ccc
 .	16aa
 .	16ffJJ)
-=	=
+=53	=53
 16FLL	8f 8a 8cc
 16c	.
 16A	16r
@@ -496,7 +495,7 @@
 16A	.
 16cJJ	16aaJk
 !!linebreak:original
-=	=
+=54	=54
 16DLL	8f 8bn
 16d	.
 16Bn	16r
@@ -505,7 +504,7 @@
 16d	8aaL
 16B	.
 16FJJ	16ggJk
-=	=
+=55	=55
 16CLL	(16dddLL
 16e	16ccc
 16c	16bb-
@@ -514,7 +513,7 @@
 16e	8dd
 16c	.
 16B-JJ	16dd-XJk)
-=	=
+=56	=56
 16ALL	8cc
 16f	.
 16c	16r
@@ -523,7 +522,7 @@
 16c	.
 16A	8cc
 16FJJ	.
-=	=
+=57	=57
 16DLL	8f 8b- 8dd 8ff
 16d	.
 16B-	16r
@@ -532,7 +531,7 @@
 16d	8gL 8gg
 16B-	.
 16D-XJJ	16g#XJk 16gg#X
-=	=
+=58	=58
 16CLL	8a 8aa
 16c	.
 16A	16r
@@ -542,7 +541,7 @@
 16A	.
 16FJJ	16bnJk 16bbn
 !!pagebreak:original
-=	=
+=59	=59
 16CLL	8cc 8ccc
 16e	.
 16c	16r
@@ -551,7 +550,7 @@
 16e	8ddL 8ddd
 16c	.
 16B-JJ	16eeJk 16eee
-=	=
+=60	=60
 16FLL	8ff 8fff
 16f	.
 16c	16r
@@ -564,5 +563,5 @@
 !!!EED: Florian Moldaschl
 !!!END: 2025/12/23
 !!!ENC: Florian Moldaschl
-!!!EEV: 2025/12/23
+!!!EEV: 2026/01/14
 !!!title: @{OPR}, @{SCT} №@{ONM}
