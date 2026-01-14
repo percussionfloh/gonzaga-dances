@@ -4,6 +4,8 @@
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
+*>[Intro,A,A0,A1,A,A0,A2,B,Coda]	*>[Intro,A,A0,A1,A,A0,A2,B,Coda]	*>[Intro,A,A0,A1,A,A0,A2,B,Coda]
+*>Intro	*>Intro	*>Intro
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
 *M2/4	*M2/4	*
@@ -48,6 +50,7 @@
 .	16r	.
 !!linebreak:original
 =6!|:	=6!|:	=6!|:
+*>A	*>A	*>A
 !	!LO:TX:b:i:t=Com gosto	!
 .	(8qf/	.
 8.FL 8.A	[2a) [2cc	.
@@ -159,6 +162,7 @@
 8B-XJ 8c 8e	.	.	.
 *v	*v	*	*
 =20||	=20||	=20||
+*>A0	*>A0	*>A0
 .	(16qqb-/LL	.
 .	16qqcc/	.
 .	16qqb-/JJ)	.
@@ -167,6 +171,7 @@
 8cL 8f	.	.
 8AJ 8c	.	.
 =21	=21	=21
+*>A1	*>A1	*>A1
 (8qF/	.	.
 8FF) 8F	8f] 8a]	.
 16r	16r	.
@@ -174,6 +179,7 @@
 8cL	8aL 8cc	.
 8B-J	8gJ 8b-	.
 =22:|!	=22:|!	=22:|!
+*>A2	*>A2	*>A2
 *d:	*d:	*
 8qF/	.	.
 8FF 8F	8f 8a	.
@@ -182,6 +188,7 @@
 4E 4G 4A 4c#X	8aL	.
 .	8aJ	.
 =23||	=23||	=23||
+*>B	*>B	*>B
 8.DL	16fKL 16a 16dd	mf
 .	8f 8a 8dd	.
 16AJk	16fJk 16a 16dd	.
@@ -425,6 +432,7 @@
 8B-J	8eJ 8g	.
 !!linebreak:original
 =55||	=55||	=55||
+*>Coda	*>Coda	*>Coda
 .	(16qqb-/LL	.
 .	16qqcc/	.
 !	!LO:TX:a:t=D.S. al Coda	!
