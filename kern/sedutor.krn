@@ -4,7 +4,7 @@
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
-*>[Intro,A,A0,A1,A,A0,A2,B,Coda]	*>[Intro,A,A0,A1,A,A0,A2,B,Coda]	*>[Intro,A,A0,A1,A,A0,A2,B,Coda]
+*>[Intro,A,Z0,A1,A,Z0,A2,B,A,Coda]	*>[Intro,A,A0,A1,A,A0,A2,B,A,Coda]	*>[Intro,A,A0,A1,A,A0,A2,B,A,Coda]
 *>Intro	*>Intro	*>Intro
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
