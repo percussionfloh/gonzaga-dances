@@ -51,6 +51,7 @@
 !!linebreak:original
 =7!|:	=7!|:	=7!|:
 *>A	*>A	*>A
+!	!LO:TX:a:t=[segno]	!
 !	!LO:TX:b:i:t=Com gosto	!
 .	(8qf/	.
 8.FL 8.A	[2a) [2cc	.
@@ -163,6 +164,7 @@
 *v	*v	*	*
 =21||	=21||	=21||
 *>Z0	*>Z0	*>Z0
+!	!LO:TX:a:t=[coda]	!
 .	(16qqb-/LL	.
 .	16qqcc/	.
 .	16qqb-/JJ)	.
@@ -430,12 +432,12 @@
 16c	16f 16a	.
 8cL	8fL 8a	.
 8B-J	8eJ 8g	.
-!!linebreak:original
+!	!LO:TX:a:t=D.S. al Coda	!
 =56||	=56||	=56||
 *>Coda	*>Coda	*>Coda
+!	!LO:TX:a:t=[coda]	!
 .	(16qqb-/LL	.
 .	16qqcc/	.
-!	!LO:TX:a:t=D.S. al Coda	!
 8qGG/	16qqb-/JJ	.
 8.FFL 8.F	4.f) 4.a	.
 16BBnJk	.	.
