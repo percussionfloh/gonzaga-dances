@@ -4,6 +4,8 @@
 **kern	**kern	**text	**text	**dynam
 *part1	*part1	*part1	*part1	*part1
 *staff2	*staff1	*staff1	*staff1	*
+*>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]	*>[A,B,B1,B,B2,C]	*
+*>A	*>A	*>A	*>A	*
 *clefF4	*clefG2	*	*	*
 *k[b-]	*k[b-]	*	*	*
 *M2/4	*M2/4	*	*	*
@@ -205,6 +207,7 @@
 .	8gg#X	.	.	.
 .	16aaJk	.	.	.
 =33!|:	=33!|:	=33!|:	=33!|:	=33!|:
+*>B	*>B	*>B	*>B	*
 8.AAL	16bb-^KL	.	.	.
 .	8aa	.	.	.
 16GJk 16A 16c#X 16e	16eeJk	.	.	.
@@ -257,12 +260,14 @@
 8DL 8G	8ffL	.	.	.
 8B-J	8ggJ	.	.	.
 =40	=40	=40	=40	=40
+*>B1	*>B1	*>B1	*>B1	*
 8AL	8cc#X^: 8aa:	.	.	.
 8AAJ	8r	.	.	.
 4r	8.r	.	.	.
 .	16aa	.	.	.
 !!linebreak:original
 =41:|!	=41:|!	=41:|!	=41:|!	=41:|!
+*>B2	*>B2	*>B2	*>B2	*
 8AA 8A	8cc#X 8aa	.	.	.
 8r;	8r;	.	.	.
 .	(8qccn/	.	.	.
@@ -270,6 +275,7 @@
 *F:	*F:	*F:	*F:	*
 .	8aJ 8ff	.	.	.
 =42||	=42||	=42||	=42||	=42||
+*>C	*>C	*>C	*>C	*
 .	(8qee/	.	.	.
 8.DL	16bnKL) 16dd	.	.	.
 .	8cc#X	.	.	.
