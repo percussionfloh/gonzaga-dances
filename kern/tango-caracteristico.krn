@@ -3,6 +3,7 @@
 !!!OTL: Tango Característico
 **kern	**kern	**dynam
 *part1	*part1	*part1
+*>[A,B,A]	*>[A,B,A]	*
 *staff2	*staff1	*
 *clefG2	*clefG2	*
 *k[f#c#]	*k[f#c#]	*
@@ -244,11 +245,13 @@
 16BJk 16d	16gJk	.
 8DL	8bL	.
 8cJ 8d 8f#	8aJ	.
+!	!LO:TX:a:t=Fine	!
 =34	=34	=34
 4G 4B 4d	4g	.
 4r	4r	.
 *clefG2	*	*
 =35||	=35||	=35||
+*>B	*>B	*
 *D:	*D:	*
 *k[f#c#]	*k[f#c#]	*
 4a	4aa^	f
@@ -490,6 +493,7 @@
 8DDL 8D	8ccL 8ff# 8bb	f
 8F#J 8c 8d	8ccJ 8ff# 8aa	.
 4GG 4G	4b 4dd 4gg	.
+!	!LO:TX:a:t=D.C. al Fine	!
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(s1,s2)}
