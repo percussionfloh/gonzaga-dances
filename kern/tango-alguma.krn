@@ -4,6 +4,8 @@
 **kern	**kern	**text
 *part1	*part1	*part1
 *staff2	*staff1	*staff1
+*>[A,A1,A,A2,B,C,C1,C,C2,B]	*>[A,A1,A,A2,B,C,C1,C,C2,B]	*>[A,A1,A,A2,B,C,C1,C,C2,B]
+*>A	*>A	*>A
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
 *M2/4	*M2/4	*
@@ -69,6 +71,7 @@
 8B-J 8c 8e	16cc	.
 .	16cccJJ)	.
 =8	=8	=8
+*>A1	*>A1	*>A1
 16FFKL	(16ffLL	.
 8A 8c 8f	16ccc	.
 .	16aa	.
@@ -76,13 +79,15 @@
 8FFL	4ff 4fff	.
 8AJ 8c 8f	.	.
 =9:|!	=9:|!	=9:|!
+*>A2	*>A2	*>A2
 8AL 8c 8f	4fff	.
 8FFJ	.	.
 4r	8r	.
 .	8cc	.
 =10||	=10||	=10||
 *f:	*f:	*
-*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*k[b-e-a-d-]	*k[b-e-a-d-]*	*
+*>B	*>B	*>B
 .	(16qqcc/LL	.
 .	16qqdd-/JJ)	.
 16FKL	16ccKL	.
@@ -194,11 +199,12 @@
 8A- 8c 8f	.	.
 16A-Jk 16c 16f	.	.
 4FF	4a-] 4ff]	.
+!	!LO:TX:a:t=Fine	!
 =26!|:	=26!|:	=26!|:
+*>C	*>C	*
 *F:	*F:	*
 *k[b-]	*k[b-]	*
 *	*8va	*
-!	!LO:TX:a:t=Fine	!
 .	(8qcccc/	.
 16CKL	4eeee^)	.
 8B- 8c 8e	.	.
@@ -258,6 +264,7 @@
 8B-J 8c 8e	16cc	.
 .	16cccJJ)	.
 =33	=33	=33
+*>C1	*>C1	*
 16FFKL	(16ffLL	.
 8A 8c 8f	16ccc	.
 .	16aa	.
@@ -265,6 +272,7 @@
 8FFL	4ff 4fff	.
 8AJ 8c 8f	.	.
 =34:|!	=34:|!	=34:|!
+*>C2	*>C2	*
 8AL 8c 8f	4fff	.
 8FFJ	.	.
 4r	8r	.
