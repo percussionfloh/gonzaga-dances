@@ -4,6 +4,8 @@
 **kern	**kern
 *part2	*part1
 *staff2	*staff1
+*>[Intro,A,A1,A,A2,B,Intro,A,A1,A,A2,B]	*>[Intro,A,A1,A,A2,B,Intro,A,A1,A,A2,B]
+*>Intro	*
 *clefF4	*clefG2
 *k[b-]	*k[b-]
 *M2/4	*M2/4
@@ -30,6 +32,7 @@
 8C'	8r
 8r;	8r;
 =4!|:	=4!|:
+*>A	*
 4r	16r
 .	8dddL
 .	16cccJk
@@ -45,7 +48,6 @@
 16BL 16d 16g	.	16bL 16dd
 16BJJ 16d 16g	.	16bJJ 16dd
 *	*v	*v
-!!linebreak:original
 =6	=6
 16B-KL	16r
 8c 8e 8g	8ff#XL
@@ -140,7 +142,6 @@
 16AJk 16c 16f	16b-Jk
 8AL 8c 8f	4cc
 8AJ 8c 8f	.
-!!linebreak:original
 =18	=18
 16CKL	16gKL
 8B- 8c 8e	8a
@@ -149,6 +150,7 @@
 8B- 8c 8e	8dd
 16B-Jk 16c 16e	16eeJk
 =19	=19
+*>A1	*
 16FFKL	2ff
 8F 8A 8c	.
 16FJk 16A 16c	.
@@ -156,6 +158,7 @@
 8F 8A 8c	.
 16FJk 16A 16c	.
 =20:|!	=20:|!
+*>A2	*
 8F 8A 8c	8a 8ff
 8r	16r
 .	16f
@@ -163,6 +166,7 @@
 .	8g
 .	16fJk
 =21||	=21||
+*>B	*
 *B-:	*
 *k[b-e-]	*k[b-e-]
 8E-^L	8ee-^L
@@ -179,7 +183,6 @@
 4r	16dKL
 .	8e-
 .	16dJk
-!!linebreak:original
 =23	=23
 8DL	8f#XL 8a 8cc
 16F#XL 16A 16c	16dL
@@ -224,7 +227,6 @@
 4r	16fKL
 .	8g
 .	16fJk
-!!pagebreak:original
 =29	=29
 8E-^L	8ee-^L
 16FL 16A 16e-	16fL 16a
@@ -269,7 +271,6 @@
 16DKL 16F 16B-	16dKL
 8D 8F 8B-	8e-
 16DJk 16F 16B-	16fJk
-!!linebreak:original
 =35	=35
 16FFKL	16aKL
 8E- 8F 8A	8g
