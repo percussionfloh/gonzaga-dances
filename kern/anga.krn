@@ -4,6 +4,8 @@
 **kern	**kern
 *part2	*part1
 *staff2	*staff1
+*>[U,A,B,A]	*>[U,A,B,A]
+*>U	*
 *clefF4	*clefG2
 *k[]	*k[]
 *M2/4	*M2/4
@@ -12,6 +14,8 @@
 4r	8r
 .	8g
 =||	=||
+!	!LO:TX:a:t=[segno]
+*>A	*
 16CKL	4.e 4.cc
 8E 8G 8c	.
 16EJk 16G 16c	.
@@ -45,7 +49,6 @@
 16EJk 16G 16c	16eeJk
 8CL	8aaL
 8EJ 8G 8c	8ccJ
-!!linebreak:original
 =5	=5
 16DKL	4f 4b
 8F 8G 8B	.
@@ -95,7 +98,6 @@
 .	8eeeL
 8EJ 8G 8c	.
 .	16bbJk
-!!linebreak:original
 =12	=12
 16F#XKL	16dddKL
 8A 8c 8f#X	8ccc
@@ -120,10 +122,11 @@
 8CL 8G 8c	8eL 8cc
 8GGJ 8G	8gJ 8b 8dd 8gg
 4CC 4C	4cc 4ee 4gg 4ccc
+!	!LO:TX:a:t=Fine
 =16||	=16||
+*>B	*
 *G:	*
 *k[f#]	*k[f#]
-!	!LO:TX:a:t=Fine
 16F#KL	16ccKL 16dd
 8c 8f#	8ee
 16cJk 16f#	16ddJk
@@ -145,7 +148,6 @@
 .	8gg#XL
 8AJ 8c 8f#	.
 .	16aaJk
-!!linebreak:original
 =19	=19
 16GKL	(16eeeLL
 8B 8d	16ddd
@@ -186,7 +188,6 @@
 16cJk 16f#	16ddJk
 8DL	8ccL 8dd
 8cJ 8f#	8aaJ
-!!linebreak:original
 =25	=25
 16GKL	4b 4gg
 8B 8d	.
@@ -232,7 +233,6 @@
 16GJk 16B 16d	16dddJk
 8DL	8cccL
 8F#J 8c 8d	8ccJ 8ff#
-!!linebreak:original
 =31	=31
 8GL 8B 8d	4b 4gg
 8GGJ	.
@@ -282,7 +282,6 @@
 .	8aaL
 8GJ 8B	.
 .	16eeJk
-!!pagebreak:original
 =38	=38
 16GGKL	16ggKL
 8F 8G 8B	8ff
@@ -330,7 +329,6 @@
 16AJk 16c 16f#	16gg#XJk
 8F#L	8bbL
 8AJ 8c 8f#	8aaJ
-!!linebreak:original
 =45	=45
 16GKL	4ee 4gg
 8c 8e	.
@@ -376,7 +374,6 @@
 16B-Jk 16c	16b-Jk 16cc
 8CL	8b- 8cc
 8GJ 8B- 8c	8r
-!!linebreak:original
 =52	=52
 16GKL	16aKL
 8A 8c#X	8bn
@@ -421,7 +418,6 @@
 16FJk 16A 16c	16fJk 16a 16dd
 8CL	8fL 8a 8cc
 8FJ 8A 8c	8fJ
-!!linebreak:original
 =59	=59
 16GKL	8.eL
 8B- 8c	.
@@ -451,6 +447,7 @@
 16CJk	.
 8FF	8r
 8r	8g
+!	!LO:TX:a:t=D.S. al Fine
 ==	==
 *-	*-
 !!!system-decoration: {(s1,s2)}
