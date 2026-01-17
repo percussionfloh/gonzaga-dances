@@ -4,6 +4,8 @@
 **kern	**kern
 *part1	*part1
 *staff2	*staff1
+*>[I,A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,E,E1,E,E2,A,A1,A,A2]	*
+*>I	*
 *I"Klavier	*
 *I'Klav.	*
 *clefF4	*clefG2
@@ -17,7 +19,9 @@
 4GG	4B 4f 4g
 8r;	8r;
 8c	8e 8g
-=	=
+=||	=||
+*>A	*
+!	!LO:TX:a:t=[segno]
 (8BL	8dL 8f
 8GJ	8fJ 8b
 8FL	8fL 8g
@@ -46,7 +50,6 @@
 8EL 8G 8c	8.eeL 8.gg
 8EJ 8G 8c	.
 .	16eeJk 16gg
-!!linebreak:original
 =	=
 16GGKL	16eeKL 16ccc
 8E 8G 8c	8ff 8ddd
@@ -55,6 +58,7 @@
 8EJ 8G 8c	.
 .	16eeJk 16gg
 =	=
+*>A1	*
 16CKL	16ffKL 16aa
 8E 8G 8c	8ee 8gg
 16EJk 16G 16c	16ccJk 16ee
@@ -74,6 +78,7 @@
 8GGL	8fL 8g
 8FJ 8G 8B	8fJ 8b 8ee
 =:|!	=:|!
+*>A2	*
 4F 4A 4d 4f	4cc 4ff 4aa 4ccc
 16r;	16r;
 8GL 8B 8f	8aaL
@@ -84,8 +89,9 @@
 16GJk 16B 16f	16bJk
 8cL	8e^ 8g 8cc
 8CJ	8r
-!	!LO:TX:a:t=Fine
+!	!LO:TX:a:B:t=Fine
 =:|!	=:|!
+*>B	*
 *a:	*
 16AAKL	16eeKL
 8E 8A 8c	8e 8a 8cc
@@ -116,7 +122,8 @@
 16DJk 16E 16G#	16dJk 16e
 8EEL	8dL 8e
 8DJ 8E 8G#	8dJ 8e
-=	=
+=||	=||
+*>B1	*
 16CKL	16eeKL
 8E 8A 8c	8g 8cc
 16EJk 16A 16c	16gJk 16cc
@@ -131,7 +138,6 @@
 .	8cc
 8GJ 8c	.
 .	16bJk
-!!linebreak:original
 =	=
 16FKL	16aKL
 8A 8d 8f	8g#X
@@ -148,6 +154,7 @@
 16D	.
 16CJJ)	.
 =:|!	=:|!
+*>B2	*
 16GKL	8aL
 8A 8c#X 8e	.
 .	8aaJ
@@ -176,8 +183,8 @@
 8GJ	8fJ 8b
 8FL	8fL 8g
 8DJ	8fJ 8b 8ee
-!!linebreak:original
 =!|:	=!|:
+*>C	*
 16CKL	16eKL 16g 16dd
 8GG	8cc
 16CJk	16eJk 16a
@@ -209,12 +216,12 @@
 8EJ 8G 8c	.
 .	16eeJk 16gg
 =	=
+*>C1	*
 16CKL	16ffKL 16aa
 8E 8G 8c	8ee 8gg
 16EJk 16G 16c	16ccJk 16ee
 8GGL	8eL 8cc
 8EJ 8G 8c	8gJ 8ee
-!!linebreak:original
 =	=
 16DKL	16fKL 16b 16ee
 8F 8G 8B	8f 8b 8dd
@@ -229,6 +236,7 @@
 8GGL	8fL 8g
 8FJ 8G 8B	8fJ 8b 8ee
 =:|!	=:|!
+*>C2	*
 4F 4A 4d 4f	4cc 4ff 4aa 4ccc
 16r;	16r;
 8GL 8B 8f	8aaL
@@ -242,6 +250,7 @@
 =	=
 *F:	*
 *k[b-]	*k[b-]
+*>D	*
 16CKL	4e 4b- 4dd
 8C	.
 16CJk	.
@@ -253,7 +262,6 @@
 16CJk	.
 8CCL	8f] 8a] 8cc]
 8CJ	8r
-!!pagebreak:original
 =	=
 16CKL	4a-X 4cc 4ff
 8C	.
@@ -290,13 +298,13 @@
 8c;L	8cc;L
 8c#XJ	8cc#XJ
 =!|:	=!|:
+*>E	*
 8.CCL	(8.e^L 8.b- 8.dd
 16EJk 16B- 16c	16ccJk
 4r	16b-LL
 .	16g
 .	16e
 .	16dJJ
-!!linebreak:original
 =	=
 8.CCL	8.cL)
 16E^Jk 16B- 16c	16e^Jk 16b- 16cc
@@ -323,6 +331,7 @@
 8GJ 8B- 8d	16bb-
 .	16fffJJ
 =	=
+*>E1	*
 16CKL	8.ee^L 8.bb- 8.ccc 8.eee
 8B- 8c 8e	.
 16B-Jk 16c 16e	16ee^Jk 16bb- 16ccc 16eee
@@ -330,7 +339,6 @@
 .	(16bb-LL
 8B-J 8c 8e	16gg
 .	16eeeJJ)
-!!linebreak:original
 =	=
 *F:	*
 16FKL	(16ff^LL 16aa 16ddd
@@ -351,6 +359,7 @@
 8AJ 8c 8f	16bn
 .	16ccJJ)
 =:|!	=:|!
+*>E2	*
 16CKL	8.ff^L 8.aa 8.ccc 8.fff
 8A 8c 8f	.
 16AJk 16c 16f	16ff^Jk 16aa 16ccc 16fff
@@ -371,6 +380,7 @@
 4F 4A 4c 4f	4a 4ff
 8r	8r
 8c	8e 8g
+!	!LO:TX:b:B:t=D.S. al Fine
 ==	==
 *-	*-
 !!!system-decoration: {(s1,s2)}
