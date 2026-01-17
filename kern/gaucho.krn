@@ -4,6 +4,8 @@
 **kern	**kern	**dynam
 *part2	*part1	*part1
 *staff2	*staff1	*
+*>[A,B,B1,B,B2,A]	*>[A,B,B1,B,B2,A]	*
+*>A	*>A	*
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
 *M2/4	*M2/4	*
@@ -50,7 +52,6 @@
 .	16gg	.
 8FJ 8A 8d	16aa	.
 .	16bb-JJ)	.
-!!linebreak:original
 =6	=6	=6
 16EKL	16aaLL	.
 8G 8A 8c#X	16gg#X	.
@@ -89,7 +90,6 @@
 8.EL	8r	.
 .	8A 8c# 8g 8a	.
 16AAJk	.	.
-!!linebreak:original
 =11	=11	=11
 8.DDL	16r	.
 .	16ALL 16d 16f 16a	.
@@ -130,7 +130,6 @@
 .	16gg#X	.
 8GJ 8A 8c#	16aa	.
 .	16ccc#XJJ)	.
-!!linebreak:original
 =16	=16	=16
 16DKL	(16eeeLL	.
 8F 8A 8d	16ddd	.
@@ -170,7 +169,6 @@
 8.FL	8r	.
 .	8A 8d 8f 8a	.
 16AAJk	.	.
-!!linebreak:original
 =21	=21	=21
 8.EEL	16r	.
 .	16ALL 16c#X 16g 16a	.
@@ -198,10 +196,11 @@
 =24	=24	=24
 4DD 4D	4d 4f 4a 4dd	.
 4D 4F 4A 4d	4dd 4ff 4aa 4ddd	.
+!	!LO:TX:a:t=Fine	!
 =25!|:	=25!|:	=25!|:
+*>B	*>B	*
 *F:	*F:	*
 !	!LO:TX:a:t=Coro e Dança	!
-!	!LO:TX:a:t=Fine	!
 8EL	4cc	.
 16B-L 16c 16e	.	.
 16B-JJ 16c 16e	.	.
@@ -257,7 +256,6 @@
 .	16ccc	.
 8AJ 8c 8f	16aa	.
 .	16ffJJ)	.
-!!linebreak:original
 =33	=33	=33
 8EL	4cc	.
 16B-L 16c 16e	.	.
@@ -285,6 +283,7 @@
 8CL	8ccL	.
 8AJ 8c 8f	8aJ	.
 =37	=37	=37
+*>B1	*>B1	*
 8DL	4f	.
 16AL 16d 16f	.	.
 16AJJ 16d 16f	.	.
@@ -298,7 +297,6 @@
 16AJk 16d 16f	16ddJk	.
 8AL 8d 8f	8cc#XL	.
 8AJ 8d 8f	8ddJ	.
-!!linebreak:original
 =39	=39	=39
 8AAL	[4a [4aa	.
 16GL 16A 16c#X 16e	.	.
@@ -312,6 +310,7 @@
 8BB-^ 8B-	.	.
 8BBn^J 8Bn	.	.
 =41:|!	=41:|!	=41:|!
+*>B2	*>B2	*
 8DL	4b-	.
 16B-L 16d 16g	.	.
 16B-JJ 16d 16g	.	.
