@@ -4,6 +4,8 @@
 **kern	**kern
 *part1	*part1
 *staff2	*staff1
+*>[U,A,B,B1,B,B2,C,A,B,B1,B,B2]	*>[U,A,B,B1,B,B2,C,A,B,B1,B,B2]
+*>U	*
 *clefF4	*clefG2
 *k[]	*k[]
 *M2/4	*M2/4
@@ -11,6 +13,8 @@
 *C:	*
 8r	8ee 8ccc
 =||	=||
+*>A	*
+!	!LO:TX:a:t=[segno]
 !	!LO:TX:b:i:t=Batuque
 8.GGL	8ffL 8ddd
 .	8ddJ 8bb
@@ -53,7 +57,6 @@
 8.GGL	8r
 .	8b 8gg
 16GGJk	.
-!!linebreak:original
 =6	=6
 8.GGL	8ccL 8aa
 .	8aJ 8ff
@@ -103,8 +106,8 @@
 .	16eLL
 .	16f
 .	16f#XJJ
-!!linebreak:original
 =13!|:	=13!|:
+*>B	*
 16GGKL	(16gLL
 8F 8G	16f
 .	16d
@@ -146,7 +149,6 @@
 16GGKL	16bKL 16ee
 8F 8G 8B	8f
 16FJk 16G 16B	16bJk 16ee
-!!linebreak:original
 =18	=18
 16CKL	(16eLL 16cc
 8E 8G 8c	16b
@@ -165,6 +167,7 @@
 .	16bb
 16FJk 16G 16B	16dddJJ)
 =20||	=20||
+*>B1	*
 8CL 8E 8G	8ee 8ccc
 8GGJ	8r
 8CC	16r
@@ -172,12 +175,14 @@
 8r	16f
 .	16f#XJJ)
 =21:|!	=21:|!
+*>B2	*
 8CL 8E 8G	4ee 4ccc
 8GGJ	.
 8CC	8r
+!	!LO:TX:a:t=Fine
 =||	=||
 *F:	*
-!	!LO:TX:a:t=Fine
+*>C	*
 8r	16cLL
 .	16c#XJJ
 =22	=22
@@ -190,7 +195,6 @@
 8B- 8c 8e	16gg
 .	16bb-
 16B-Jk 16c 16e	16eeeJJ)
-!!linebreak:original
 =23	=23
 16FKL	16gggKL
 8A 8c 8f	8fff
@@ -274,7 +278,6 @@
 8B- 8c 8e	16gg
 .	16cc
 16B-Jk 16c 16e	16aaJJ)
-!!linebreak:original
 =33	=33
 16FKL	(16ggLL
 8A 8c 8f	16ff
