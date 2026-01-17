@@ -21,7 +21,7 @@
 .	16FJk 16B- 16d 16f	.
 8r	8F 8B- 8d 8f	.
 8FF	8r	.
-=3!|:	=3!|:	=3!|:
+=3||	=3||	=3||
 !	!LO:TX:b:t=cantabile	!
 16BB-KL	[4b-	.
 8F 8B- 8d	.	.
@@ -50,7 +50,6 @@
 16FJk 16B- 16d	.	.
 8FL 8B- 8d	8f	.
 8FJ 8B- 8d	8r	.
-!!linebreak:original
 =7	=7	=7
 16BB-KL	[4b-	.
 8F 8B- 8d	.	.
@@ -96,7 +95,6 @@
 16E-Jk 16F 16A	.	16e-Jk 16f	.
 8E-L 8F 8A	8ee-	4r	.
 8E-J 8F 8A	8r	.	.
-!!linebreak:original
 =13	=13	=13	=13
 16FFKL	[4dd	16r	.
 8F 8A	.	8e-L 8a	.
@@ -138,7 +136,6 @@
 8BB-L	8dL 8b-	.
 8FFJ 8F	8fJ 8ff	.
 4BBB- 4BB-	4b- 4dd 4ff 4bb-	.
-!!linebreak:original
 =19||	=19||	=19||
 *E-:	*E-:	*
 *k[b-e-a-]	*k[b-e-a-]	*
@@ -182,7 +179,6 @@
 16A-Jk 16B- 16d	.	.
 8A-L 8B- 8d	4dd 4gg	.
 8A-J 8B- 8d	.	.
-!!linebreak:original
 =25	=25	=25
 16EE-KL	[4g^ [4b- [4ff	.
 8G 8B- 8e-	.	.
@@ -262,7 +258,6 @@
 .	16FJk 16B- 16d 16f	.
 8r	8F 8B- 8d 8f	.
 8FF	8r	.
-!!linebreak:original
 =37	=37	=37
 16BB-KL	[4b-	.
 8F 8B- 8d	.	.
@@ -307,7 +302,6 @@
 .	8a	.
 8FJ 8A 8d	.	.
 .	16ddJk	.
-!!linebreak:original
 =43	=43	=43
 16AAKL	[4ff	.
 8G 8A 8c#X 8en	.	.
@@ -352,7 +346,6 @@
 16FJk 16B- 16d	.	.
 8FL 8B- 8d	8f	.
 8FJ 8B- 8d	8r	.
-!!linebreak:original
 =49	=49	=49
 16A-X^KL	4b-^ 4dd 4ff	.
 8B- 8d 8f	.	.
@@ -397,7 +390,6 @@
 8EE-L	4e-	8r	.
 8E-J	.	8G 8B-	.
 *	*v	*v	*
-!!linebreak:original
 =55	=55	=55
 16EE-KL	8.aa-L	.
 8B- 8e- 8g	.	.
@@ -448,7 +440,6 @@
 .	8b-	.
 8B-J 8e- 8g	.	.
 .	16gJk	.
-!!pagebreak:original
 =62	=62	=62
 *	*^	*
 16BBB-KL	4f	16r	.
@@ -499,7 +490,6 @@
 .	16aa-	.
 8B-J 8d 8f	16cc	.
 .	16ddJJ)	.
-!!linebreak:original
 =68	=68	=68
 8GL	8ee-L	.
 8BBB-J 8BB-	8b-:J 8dd: 8ff: 8bb-:	.
