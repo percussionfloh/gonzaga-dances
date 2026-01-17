@@ -4,6 +4,8 @@
 **kern	**kern	**dynam
 *part1	*part1	*part1
 *staff2	*staff1	*
+*>[U,A,B,A]	*>[U,A,B,A]	*
+*>U	*>U	*
 *I"Klavier	*	*
 *I'Klav.	*	*
 *clefF4	*clefG2	*
@@ -15,6 +17,8 @@
 8r	16ddd	.
 .	16fffJJ	.
 =||	=||	=||
+*>A	*>A	*
+!	!LO:TX:a:t=[segno]	!
 16CKL	16eeeLL	.
 8B- 8c 8e	16bb-	.
 .	16ccc	.
@@ -48,7 +52,6 @@
 8A 8c 8f	16ccc	.
 .	16ddd	.
 16AJk 16c 16f	16fffJJ)	.
-!!linebreak:original
 =	=	=
 16CKL	(16eeeLL	.
 8B- 8c 8e	16bb-	.
@@ -94,7 +97,6 @@
 .	(16g	.
 8AJ 8c# 8e	16a	.
 .	16ffJJ)	.
-!!linebreak:original
 =	=	=
 16DKL	8.f^L 8.a 8.ee	.
 8F 8A 8d	.	.
@@ -135,7 +137,6 @@
 .	16ccc#XLL	.
 8AJ 8c 8f	16eee	.
 .	16dddJJ	.
-!!linebreak:original
 =	=	=
 16EKL	16cccLL	.
 8B- 8c 8e	16bbn	.
@@ -180,7 +181,6 @@
 .	16ccc	.
 8F#J 8c 8d	16bb-	.
 .	16aaJJ)	.
-!!linebreak:original
 =	=	=
 16GGKL	8.dddL	.
 8G 8B- 8d	.	.
@@ -223,7 +223,6 @@
 .	16cccLL	.
 .	16ddd	.
 16r	16fffJJ	.
-!!linebreak:original
 =	=	=
 16CKL	(16eeeLL	.
 8B- 8c 8e	16bb-	.
@@ -267,7 +266,6 @@
 8B- 8c 8e	16gg	.
 .	16aa	.
 16B-Jk 16c 16e	16bb-JJ)	.
-!!pagebreak:original
 =	=	=
 16CKL	8.dd^L	.
 8A 8c 8f	.	.
@@ -294,6 +292,7 @@
 8r	8r	.
 !	!LO:TX:a:t=Fine	!
 =||	=||	=||
+*>B	*>B	*
 *k[b-e-]	*k[b-e-]	*
 *B-:	*B-:	*
 4BB-	16r	p
@@ -317,7 +316,6 @@
 8FJ 8B- 8d	8b-	.
 8DL	8ddL 8bb-	.
 8FJ 8B- 8d	8b-J 8gg	.
-!!linebreak:original
 =	=	=
 16FFKL	8.aL 8.ee- 8.ff	.
 8F 8A 8e-	.	.
@@ -367,7 +365,6 @@
 8B-J 8c 8en	16dd	.
 !	!LO:TX:a:t=Viva a Água \ndo Vintém	!
 .	16eeJJ	.
-!!linebreak:original
 =	=	=
 8FL	8ff	.
 8AJ 8c 8f	8r	.
@@ -406,7 +403,6 @@
 8FJ 8B- 8d	8b-J	.
 8DL	8b-L 8aa	.
 8FJ 8B- 8d	8b-J 8gg	.
-!!linebreak:original
 =	=	=
 16CKL	8.e-L 8.a	.
 8E- 8A	.	.
@@ -447,6 +443,7 @@
 .	16cccLL	.
 .	16ddd	.
 .	16fffJJ	.
+!	!LO:TX:a:B:t=D.S. al Fine	!
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(s1,s2)}
