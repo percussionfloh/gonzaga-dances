@@ -4,6 +4,8 @@
 **kern	**kern
 *part1	*part1
 *staff2	*staff1
+*>[A,B,C,B,D,A,B]	*>[A,B,C,B,D,A,B]
+*>A	*
 *clefF4	*clefG2
 *k[]	*k[]
 *M2/4	*M2/4
@@ -53,7 +55,6 @@
 16G	.
 16E	8fJ 8b
 16GJJ)	.
-!!linebreak:original
 =6	=6
 (16DLL	8B 8f 8g
 16G	.
@@ -108,7 +109,6 @@
 16G	.
 16E	8eJ
 16GJJ)	.
-!!linebreak:original
 =12	=12
 (16DLL	8.BL 8.f 8.g
 16G	.
@@ -161,7 +161,6 @@
 16G	.
 16E	8gg
 16GJJ)	.
-!!linebreak:original
 =18	=18
 (16DLL	8.BL 8.f 8.g
 16G	.
@@ -187,6 +186,7 @@
 .	8gL
 .	16ccJk
 =21||	=21||
+*>B	*
 16GGLL	(16bKL
 16f	8aa
 16B	.
@@ -213,7 +213,6 @@
 16B	8fnL 8b 8ee
 16G	.
 16FJJ	16fJk 16b 16dd
-!!linebreak:original
 =24	=24
 16CLL	8.e^
 16G	.
@@ -259,7 +258,6 @@
 .	8gL
 8r	.
 .	16ccJk
-!!pagebreak:original
 =29	=29
 16GLL	(16bKL
 16f	8aa
@@ -305,7 +303,6 @@
 16d	8a
 16B	.
 16GJJ	16bJk
-!!linebreak:original
 =34	=34
 16ELL	8.g
 16e	.
@@ -330,12 +327,13 @@
 16G	.
 16EJJ	.
 16C	16r
+!	!LO:TX:a:t=Fine
 8.ryy	16ccKL
 .	8ccJ
 =37||	=37||
+*>C	*
 *G:	*
 *k[f#]	*k[f#]
-!	!LO:TX:a:t=Fine
 16F#LL	16ddKL
 16f#	8ccc
 16d	.
@@ -353,7 +351,6 @@
 16g	(16bLL
 16d	16dd
 16BJJ	16ggJJ)
-!!linebreak:original
 =39	=39
 16ALL	8.ff#L 8.ddd
 16f#	.
@@ -399,7 +396,6 @@
 16f#	8dddL
 16d	.
 16cJJ	16ff#Jk
-!!linebreak:original
 =44	=44
 16GLL	4b 4dd 4gg
 16g	.
@@ -409,10 +405,11 @@
 .	8gL
 8r	.
 .	16ccJk
+!	!LO:TX:a:t=D.S. al Coda
 =45||	=45||
 *F:	*
 *k[b-]	*k[b-]
-!	!LO:TX:a:t=D.S. al Coda
+*>D	*
 16FLL	8f 8a 8cc
 16c	.
 16A	16r
@@ -448,7 +445,6 @@
 16c	.
 16A	8cc
 16FJJ	.
-!!linebreak:original
 =49	=49
 16DLL	8f 8b- 8ff
 16f	.
@@ -494,7 +490,6 @@
 16c	8bb-L
 16A	.
 16cJJ	16aaJk
-!!linebreak:original
 =54	=54
 16DLL	8f 8bn
 16d	.
@@ -540,7 +535,6 @@
 16c	8b-L 8bb-
 16A	.
 16FJJ	16bnJk 16bbn
-!!pagebreak:original
 =59	=59
 16CLL	8cc 8ccc
 16e	.
