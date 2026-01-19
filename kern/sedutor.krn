@@ -13,7 +13,7 @@
 *F:	*F:	*
 !	!LO:TX:a:B:t=Allegro	!
 (16F	(16f 16a	f
-=	=	=
+=1	=1	=1
 16GLL	16gLL 16b-	.
 16A	16a 16cc	.
 16B-	16b- 16dd	.
@@ -22,7 +22,7 @@
 16e	16ee 16gg	.
 16f	16ff 16aa	.
 16gJJ	16ggJJ 16bb-	.
-=1	=1	=1
+=2	=2	=2
 4a;)	4aa;) 4ccc	.
 8gL	(8ggL 8bb-	p
 8fJ	8ffJ 8aa	.
@@ -453,5 +453,5 @@
 !!!EED: Florian Moldaschl
 !!!END: 2025/12/23
 !!!ENC: Florian Moldaschl
-!!!EEV: 2026/01/14
+!!!EEV: 2026/01/19
 !!!title: @{OPR}, @{SCT} №@{ONM}

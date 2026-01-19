@@ -6,65 +6,63 @@
 *staff2	*staff1
 *>[I,A,A1,A,A2,B,B1,B,B2,C,C1,C,C2,D,E,E1,E,E2,A,A1,A,A2]	*
 *>I	*
-*I"Klavier	*
-*I'Klav.	*
 *clefF4	*clefG2
 *k[]	*k[]
 *M2/4	*M2/4
-=1	=1
+=	=
 *C:	*
 8G 8B 8f	8g 8b 8gg
-=	=
+=1	=1
 !	!LO:TX:b:i:t=Pratos
 4GG	4B 4f 4g
 8r;	8r;
 8c	8e 8g
-=||	=||
+=2||	=2||
 *>A	*
 !	!LO:TX:a:t=[segno]
 (8BL	8dL 8f
 8GJ	8fJ 8b
 8FL	8fL 8g
 8DJ	8fJ 8b 8ee
-=!|:	=!|:
+=3!|:	=3!|:
 16CKL	16eKL 16g 16dd
 8GG	8cc
 16CJk	16eJk 16a
 8EL	8eL 8g
 8cJ	8eJ 8g
-=	=
+=4	=4
 8BL	8dL 8f
 8GJ	8fJ 8b
 8FL	8fL 8g
 8DJ	8fJ 8b 8ee
-=	=
+=5	=5
 16CKL)	16eKL 16g 16dd
 8GG	8cc
 16CJk	16eJk 16a
 8.EL	8.eL 8.g
 16cJk	16eJk 16g
-=	=
+=6	=6
 16GGKL	16eKL 16cc
 8E 8G 8c	8f 8dd
 16EJk 16G 16c	16gJk 16ee
 8EL 8G 8c	8.eeL 8.gg
 8EJ 8G 8c	.
 .	16eeJk 16gg
-=	=
+=7	=7
 16GGKL	16eeKL 16ccc
 8E 8G 8c	8ff 8ddd
 16EJk 16G 16c	16ggJk 16eee
 8EL 8G 8c	8.eeeL 8.ggg
 8EJ 8G 8c	.
 .	16eeJk 16gg
-=	=
+=8	=8
 *>A1	*
 16CKL	16ffKL 16aa
 8E 8G 8c	8ee 8gg
 16EJk 16G 16c	16ccJk 16ee
 8GGL	8eL 8cc
 8EJ 8G 8c	8gJ 8ee
-=	=
+=9	=9
 16DKL	16fKL 16b 16ee
 8F 8G 8B	8f 8b 8dd
 16FJk 16G 16B	16fJk 16b
@@ -72,25 +70,25 @@
 16A	.
 16G	.
 16G-XJJ	.
-=	=
+=10	=10
 8FL	8fL] 8g]
 8GJ 8B	8fJ 8b
 8GGL	8fL 8g
 8FJ 8G 8B	8fJ 8b 8ee
-=:|!	=:|!
+=11:|!	=11:|!
 *>A2	*
 4F 4A 4d 4f	4cc 4ff 4aa 4ccc
 16r;	16r;
 8GL 8B 8f	8aaL
 16GJk 16B 16f	16eeJk
-=	=
+=12	=12
 16GKL 16B 16f	16ggKL
 8G 8B 8f	8ff
 16GJk 16B 16f	16bJk
 8cL	8e^ 8g 8cc
 8CJ	8r
 !	!LO:TX:a:B:t=Fine
-=:|!	=:|!
+=13:|!	=13:|!
 *>B	*
 *a:	*
 16AAKL	16eeKL
@@ -100,7 +98,7 @@
 .	8dd
 8FJ 8A 8d	.
 .	16ffJk
-=	=
+=14	=14
 16AAKL	16eeKL
 8E 8A 8c	8e 8a 8cc
 16EJk 16A 16c	16eJk 16a 16cc
@@ -108,7 +106,7 @@
 .	16cc
 8EJ 8A 8c	16b
 .	16aJJ
-=	=
+=15	=15
 16DKL	16fKL
 8F	8A 8d
 16FJk	16AJk 16d
@@ -116,13 +114,13 @@
 .	8d 8f
 8FJ	.
 .	16bJk
-=	=
+=16	=16
 16EEKL	16g#XKL
 8D 8E 8G#X	8d 8e
 16DJk 16E 16G#	16dJk 16e
 8EEL	8dL 8e
 8DJ 8E 8G#	8dJ 8e
-=||	=||
+=17||	=17||
 *>B1	*
 16CKL	16eeKL
 8E 8A 8c	8g 8cc
@@ -130,7 +128,7 @@
 16DKL	16ggKL
 8F 8G 8B	8f 8b
 16FJk 16G 16B	16aaJk
-=	=
+=18	=18
 16EKL	16ggKL
 8G 8c	8g 8cc 8ee
 16GJk 16c	16gJk 16cc 16ee
@@ -138,13 +136,13 @@
 .	8cc
 8GJ 8c	.
 .	16bJk
-=	=
+=19	=19
 16FKL	16aKL
 8A 8d 8f	8g#X
 16AJk 16d 16f	16aJk
 8FL	8aaL
 8AJ 8d 8f	8bbJ
-=	=
+=20	=20
 (16ELL	2b 2gg#X
 16D	.
 16E	.
@@ -153,7 +151,7 @@
 16BB	.
 16D	.
 16CJJ)	.
-=:|!	=:|!
+=21:|!	=21:|!
 *>B2	*
 16GKL	8aL
 8A 8c#X 8e	.
@@ -161,68 +159,68 @@
 16AJk 16c# 16e	.
 8GL	8r
 8AJ 8c# 8e	(8ee
-=	=
+=22	=22
 16FKL	16ggKL
 8A 8d 8f	8ff
 16AJk 16d 16f	16eeJk
 16FKL	16ddKL
 8A 8d 8f	8cc
 16AJk 16d 16f	16bJk
-=	=
+=23	=23
 16EKL	16aKL)
 8A 8c 8e	8cc
 16AJk 16c 16e	16ffJk
 8EL	8eeL
 8G#XJ 8d 8e	8bbJ
-=	=
+=24	=24
 4A 4c 4e	4cc 4ee 4aa
 8BL	8r
 8GJ	8e 8g
-=	=
+=25	=25
 (8BL	8dL 8f
 8GJ	8fJ 8b
 8FL	8fL 8g
 8DJ	8fJ 8b 8ee
-=!|:	=!|:
+=26!|:	=26!|:
 *>C	*
 16CKL	16eKL 16g 16dd
 8GG	8cc
 16CJk	16eJk 16a
 8EL	8eL 8g
 8cJ	8eJ 8g
-=	=
+=27	=27
 8BL	8dL 8f
 8GJ	8fJ 8b
 8FL	8fL 8g
 8DJ	8fJ 8b 8ee
-=	=
+=28	=28
 16CKL)	16eKL 16g 16dd
 8GG	8cc
 16CJk	16eJk 16a
 8.EL	8.eL 8.g
 16cJk	16eJk 16g
-=	=
+=29	=29
 16GGKL	16eKL 16cc
 8E 8G 8c	8f 8dd
 16EJk 16G 16c	16gJk 16ee
 8EL 8G 8c	8.eeL 8.gg
 8EJ 8G 8c	.
 .	16eeJk 16gg
-=	=
+=30	=30
 16GGKL	16eeKL 16ccc
 8E 8G 8c	8ff 8ddd
 16EJk 16G 16c	16ggJk 16eee
 8EL 8G 8c	8.eeeL 8.ggg
 8EJ 8G 8c	.
 .	16eeJk 16gg
-=	=
+=31	=31
 *>C1	*
 16CKL	16ffKL 16aa
 8E 8G 8c	8ee 8gg
 16EJk 16G 16c	16ccJk 16ee
 8GGL	8eL 8cc
 8EJ 8G 8c	8gJ 8ee
-=	=
+=32	=32
 16DKL	16fKL 16b 16ee
 8F 8G 8B	8f 8b 8dd
 16FJk 16G 16B	16fJk 16b
@@ -230,24 +228,24 @@
 16A	.
 16G	.
 16G-XJJ	.
-=	=
+=33	=33
 8FL	8fL] 8g]
 8GJ 8B	8fJ 8b
 8GGL	8fL 8g
 8FJ 8G 8B	8fJ 8b 8ee
-=:|!	=:|!
+=34:|!	=34:|!
 *>C2	*
 4F 4A 4d 4f	4cc 4ff 4aa 4ccc
 16r;	16r;
 8GL 8B 8f	8aaL
 16GJk 16B 16f	16eeJk
-=	=
+=35	=35
 16GKL 16B 16f	16ggKL
 8G 8B 8f	8ff
 16GJk 16B 16f	16bJk
 8cL	8e 8g 8cc
 8CJ	8r
-=	=
+=36	=36
 *F:	*
 *k[b-]	*k[b-]
 *>D	*
@@ -256,48 +254,48 @@
 16CJk	.
 8CCL	8eL 8b- 8ee
 8CJ	8eJ 8b- 8dd
-=	=
+=37	=37
 16CKL	[4f [4a [4cc
 8C	.
 16CJk	.
 8CCL	8f] 8a] 8cc]
 8CJ	8r
-=	=
+=38	=38
 16CKL	4a-X 4cc 4ff
 8C	.
 16CJk	.
 8CCL	8fL 8a- 8cc
 8CJ	8cJ 8f 8a-
-=	=
+=39	=39
 16CKL	[4B- [4e [4g
 8C	.
 16CJk	.
 8CCL	8B-] 8e] 8g]
 8CJ	8r
-=	=
+=40	=40
 16CKL	4e 4b- 4dd
 8C	.
 16CJk	.
 8CCL	8b-L 8ee 8aa
 8CJ	8b-J 8ee 8gg
-=	=
+=41	=41
 16CKL	[4a [4cc [4ff
 8C	.
 16CJk	.
 8CCL	8a] 8cc] 8ff]
 8CJ	8r
-=	=
+=42	=42
 16CKL	4a-X 4cc 4ff
 8C	.
 16CJk	.
 8CCL	8cL 8f 8a-
 8CJ 8A-X	8cJ 8f
-=	=
+=43	=43
 8C 8E 8B-	8c
 8r	8r
 8c;L	8cc;L
 8c#XJ	8cc#XJ
-=!|:	=!|:
+=44!|:	=44!|:
 *>E	*
 8.CCL	(8.e^L 8.b- 8.dd
 16EJk 16B- 16c	16ccJk
@@ -305,24 +303,24 @@
 .	16g
 .	16e
 .	16dJJ
-=	=
+=45	=45
 8.CCL	8.cL)
 16E^Jk 16B- 16c	16e^Jk 16b- 16cc
 8r	8r
 8CC	8ee
-=	=
+=46	=46
 8.FFL	(8.a^L 8.cc 8.gg
 16AJk 16c 16f	16ffJk
 4r	16ddLL
 .	16cc
 .	16a
 .	16fJJ
-=	=
+=47	=47
 8.AAL	8.cL)
 16F^Jk 16A 16c	(16fJk 16a 16cc
 8r	8r)
 8FF	8ff
-=	=
+=48	=48
 16GGKL	8.ff^L 8.bb- 8.ddd 8.fff
 8G 8B- 8d	.
 16GJk 16B- 16d	16ff^Jk 16bb- 16ddd 16fff
@@ -330,7 +328,7 @@
 .	16dddLL
 8GJ 8B- 8d	16bb-
 .	16fffJJ
-=	=
+=49	=49
 *>E1	*
 16CKL	8.ee^L 8.bb- 8.ccc 8.eee
 8B- 8c 8e	.
@@ -339,7 +337,7 @@
 .	(16bb-LL
 8B-J 8c 8e	16gg
 .	16eeeJJ)
-=	=
+=50	=50
 *F:	*
 16FKL	(16ff^LL 16aa 16ddd
 8A 8c 8f	16ddd-X
@@ -349,7 +347,7 @@
 .	16aa
 8AJ 8c 8f	16aa-X
 .	16ggJJ
-=	=
+=51	=51
 16AAKL	16gg-XLL
 8A 8c 8f	16ff
 .	16ee
@@ -358,7 +356,7 @@
 .	16cc
 8AJ 8c 8f	16bn
 .	16ccJJ)
-=:|!	=:|!
+=52:|!	=52:|!
 *>E2	*
 16CKL	8.ff^L 8.aa 8.ccc 8.fff
 8A 8c 8f	.
@@ -367,7 +365,7 @@
 .	(16ffLL
 8AJ 8c 8f	16aa
 .	16cccJJ)
-=	=
+=53	=53
 16DKL	16bb-LL
 8G 8B- 8d	16ddd
 .	16gg
@@ -376,7 +374,7 @@
 .	16gg
 8B-J 8c 8e	16cc
 .	16eeJJ
-=	=
+=54	=54
 4F 4A 4c 4f	4a 4ff
 8r	8r
 8c	8e 8g
@@ -388,5 +386,5 @@
 !!!EED: Florian Moldaschl
 !!!END: 2025/12/23
 !!!ENC: Florian Moldaschl
-!!!EEV: 2026/01/14
+!!!EEV: 2026/01/19
 !!!title: @{OPR}, @{SCT} №@{ONM}
