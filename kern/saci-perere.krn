@@ -188,6 +188,7 @@
 .	16ccJk
 =21||	=21||
 *>B	*
+!	!LO:TX:a:t=[segno]
 16GGLL	(16bKL
 16f	8aa
 16B	.
@@ -331,6 +332,7 @@
 !	!LO:TX:a:t=Fine
 8.ryy	16ccKL
 .	8ccJ
+!	!LO:TX:a:t=[coda]
 =37||	=37||
 *>C	*
 *G:	*
@@ -411,6 +413,7 @@
 *F:	*
 *k[b-]	*k[b-]
 *>D	*
+!	!LO:TX:a:t=[coda]
 16FLL	8f 8a 8cc
 16c	.
 16A	16r
@@ -551,6 +554,7 @@
 16c	16r
 16AJJ	16ff 16aa 16ccc 16fff
 4FF	4r
+!	!LO:TX:a:t=D.C. al Fine
 ==	==
 *-	*-
 !!!system-decoration: {(s1,s2)}
