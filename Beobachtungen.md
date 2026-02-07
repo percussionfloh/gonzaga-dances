@@ -54,16 +54,15 @@ keine Pentatonik
 * Des/b
 * kein Trio
 
-Chi:
-1. Thema Pentatonik, synkopen mit ghostnotes, periodisch mit halb-chromatischem Lamentobass in zweiter Hälfte
-2. Thema Chromatik (bei Dominanten) & Akkordtöne
+Xi: NOCHMAL MUSESCORE CHECKEN
+1. Thema Pentatonik, synkopen mit ghostnotes (heterolepsis oder polyphon), periodisch mit halb-chromatischem Lamentobass in zweiter Hälfte
+2. Thema Chromatik (bei Dominanten) & Akkordtöne (bei Dominanten auch 9 etc)
 * A-B-A
 * Triller
 * Intro
 
 Choro:
 * Intro mit IV, V7, I in Eb
-
 * Harmonisch "ausufernder" als üblich
 1. Thema periodisch und p <-> f, Appg auf stark/halb-starke beats, pentatonisch, m 21 verm
 2. Thema in Ab, Akkordtöne, wenig pentatonisch (m 29)
@@ -103,10 +102,10 @@ Wenige Vorhalte
 Julia:
 A: pentatonisch, Quintfall T7-9, viele Vorhalte,
  aufgelöst meist auf 1e
-B: pentatonisch, manchmal Chrom. Linien T 21 & T23,
+B: pentatonisch, manchmal Chrom. Linien T 21 & T23 (polyphonie),
  viele Vorhalte, aufgelöst meist auf 1e
 C: nur akkordtöne, *T56 & T61
-A(F)-B(d)-A(F)-C(Bb)
+A(F)-B(d)-A(F)-C(Bb)-A
 
 Linda Morena:
 A: Melodie oft Wechsel zw 6 und 5, * T8, erste Klammer E zweite e
@@ -177,3 +176,41 @@ viel Chromatik, vA bei Septakkorden
 
  Yo te adoro:
  * simples Intro
+
+ * Dissertation Ana Paula Machado Simoes 
+
+ -Biography:
+    - 2 times divorced
+    - 1877: first published composition
+    - 1885: debut as first female brazilian conductor
+    - 1899: composed first brazilian carneval march
+    - aristocratic background: mixed knowledge of classical techniques with pop music
+    - autodidact in orchestration
+    - her versatility connected (considered) low class elements and "high class" (european classical tradition)
+    -her music reached Portugal, France, Germany
+    - she included traditional brazilian instruments in theaters (where rather classical instruments were used)
+    - Carlos Gomes (renowned classical composer) held her in high esteem -> conservative musicians began to accept her
+    - with 52y, relationship with 16yo, presented him as her son
+    - 1914: Corta jaca was played by the first Lady-> scandal, first time "immoral music" was played by the elites
+    - founded the first Brazilian society for copyright protection
+    - died in 1935 as 87yo
+
+The Tango in Brazil:
+    - see MindMap
+    - the maxixe continued to be very popular in Brazil and especially France
+    - around 1915 famous in US
+    - US performers tried to erase the African/Brazilian background of the maxixe
+    - maxixe got absorbed into jazz, proclaimed "racially neutral"
+    - big success in France
+
+- Influence in (brazilian) classical music:
+    - Milhaud (1892-1974) used Gonzagas Tango "Gaucho" for his symphonic poem "Le Boeuf sur le toit"
+
+The Tangos:
+    - different classifications (maxixe, tango brasileiro, choro, etc.) are probably certain ways to perform but are not explained by the composer
+    - most frequently rondo form
+    - sometimes "batuque", "canto", "coro e danca", "trio", "tutti"
+    - often one section which puts emphasis on syncopation
+    - This swing should not be interpreted as the swing eight-notes of American jazz. In Brazilian music, it is more related to presenting rhythmic fluidity and spontaneity. In other words, the syncopations should not sound “rigid.
+    - "batuque":  a generic term that designates the dances practiced by black people in 19thcentury in Brazil
+    - melodies sound spontaneous ad easy
